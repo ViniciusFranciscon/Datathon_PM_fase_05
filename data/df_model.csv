@@ -1,0 +1,883 @@
+ID_ALUNO,NOME,ANO,CLUSTER,IAN_LAG,IEG,IDA,IPS,IPP,IPV,PEDRA,PERFIL,KPI_CRITICO,DIAGNOSTICO,ACAO
+958,ALUNO-958,2022,2,5.0,8.80128205128205,5.8,5.0,7.03125,6.7499975,Ágata,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+861,Aluno-861,2023,0,5.0,10.0,9.6,8.13,7.34375,8.92,Topázio,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+688,Aluno-688,2024,0,5.0,10.0,7.5,8.13,7.34375,9.45,Topázio,Deterioração gradual,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+643,Aluno-643,2023,0,5.0,8.2,7.1,7.52,7.34375,7.613333333,Ametista,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+614,Aluno-614,2022,0,10.0,9.7,9.6,7.5,7.34375,8.278,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1196,Aluno-1196,2023,2,10.0,8.2,7.5,5.0,7.34375,8.045,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+907,ALUNO-907,2021,3,10.0,3.8,3.1,7.5,7.3,7.6,Quartzo,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1197,ALUNO-1197,2021,0,10.0,8.3,7.8,7.5,7.8,7.3,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1219,ALUNO-1219,2022,1,10.0,8.36904761904762,8.05555555555555,7.5,6.04166666666666,8.500005,Ametista,Risco estrutural,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+518,Aluno-518,2022,0,10.0,9.4,7.5,7.5,7.34375,7.5,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1017,ALUNO-1017,2021,0,10.0,7.2,5.8,7.5,7.9,9.2,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+319,Aluno-319,2023,2,10.0,9.2,7.2,5.0,7.34375,8.88,Topázio,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+319,ALUNO-319,2021,0,10.0,9.6,8.2,6.9,7.3,8.0,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+968,Aluno-968,2024,0,5.0,8.8095238095,7.75,7.51,7.34375,7.6675,Ametista,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+441,ALUNO-441,2021,0,10.0,7.9,7.8,6.3,8.1,8.0,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+832,Aluno-832,2024,0,5.0,8.695652174,8.0,7.51,7.34375,7.5,Topázio,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+485,Aluno-485,2022,3,5.0,4.0,1.2,7.5,7.34375,5.444,Quartzo,Queda recente de aprendizado,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+991,Aluno-991,2023,2,5.0,9.1,7.7,3.14,7.34375,9.585,Ametista,Falha de aprendizado,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+975,Aluno-975,2024,2,10.0,7.7083333335,8.0,5.01,7.34375,7.33,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+637,Aluno-637,2024,0,5.0,6.2272727275,7.75,7.51,7.34375,7.776666667,Ametista,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+1187,Aluno-1187,2023,2,5.0,6.9,5.3,2.52,7.34375,6.715,Agata,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+91,ALUNO-91,2021,3,10.0,0.0,2.2,7.5,5.6,2.5,Quartzo,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+168,ALUNO-168,2022,1,5.0,6.00280112044817,6.13333333333333,6.25,6.04166666666666,6.88888333333333,Ágata,Risco estrutural,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+858,Aluno-858,2023,2,5.0,8.1,9.3,3.77,7.34375,7.946666667,Ametista,Falha de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+584,Aluno-584,2024,3,10.0,5.63636363633333,4.33333333333333,8.755,7.34375,6.37,Agata,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+251,ALUNO-251,2022,0,10.0,7.90684624017957,7.83333333333333,7.5,6.25,8.44444666666666,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+300,Aluno-300,2023,2,5.0,7.5,4.5,2.52,7.34375,6.5875,Quartzo,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+81,ALUNO-81,2022,0,5.0,7.402950310559,6.65555555555555,8.125,7.5,8.83333666666666,Ametista,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+926,ALUNO-926,2021,2,5.0,7.9,6.9,5.0,7.5,8.1,Ametista,Falha de aprendizado,IPP,Baixa persistência,Trabalhar persistência com acompanhamento individual e metas de continuidade
+718,Aluno-718,2022,0,5.0,8.9,9.2,6.3,7.34375,7.417,Topázio,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+1215,Aluno-1215,2023,3,5.0,5.6,4.1,5.0,7.34375,7.1725,Agata,Queda recente de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+319,Aluno-319,2022,0,5.0,7.7,5.2,7.5,7.34375,7.5,Ametista,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+316,Aluno-316,2023,0,10.0,9.5,5.7,7.52,7.34375,8.96,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+144,Aluno-144,2023,3,5.0,5.2,4.4,2.52,7.34375,6.0,Quartzo,Queda recente de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+263,ALUNO-263,2021,0,10.0,7.8,6.5,7.5,8.0,7.5,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+504,Aluno-504,2023,0,5.0,8.3,7.9,7.52,7.34375,8.836666667,Topázio,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+442,ALUNO-442,2021,3,5.0,4.2,0.7,7.5,7.5,6.8,Quartzo,Queda recente de aprendizado,IPP,Baixa persistência,Trabalhar persistência com acompanhamento individual e metas de continuidade
+1122,ALUNO-1122,2022,0,10.0,9.61538461538461,8.77777777777777,7.5,7.5,8.50000749999999,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1191,ALUNO-1191,2022,0,10.0,9.33333333333333,7.88888888888888,5.0,8.28125,8.2916725,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1011,Aluno-1011,2023,2,5.0,8.6,5.2,3.77,7.34375,7.675,Ametista,Falha de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+768,Aluno-768,2024,0,5.0,7.9841897235,5.5,6.26,7.34375,7.495,Ametista,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+143,Aluno-143,2024,3,10.0,9.92,2.63333333333333,6.885,7.34375,7.5,Ametista,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1212,Aluno-1212,2023,2,5.0,8.9,4.2,5.0,7.34375,7.715,Agata,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+39,Aluno-39,2023,0,10.0,9.1,7.8,7.52,7.34375,8.7575,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1075,Aluno-1075,2024,2,5.0,8.5154061625,6.0,3.755,7.34375,7.553333333,Agata,Falha de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+448,ALUNO-448,2021,0,10.0,7.8,6.3,7.5,7.5,8.1,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+555,Aluno-555,2024,3,5.0,2.75051759833333,4.33333333333333,6.885,7.34375,5.03,Quartzo,Queda recente de aprendizado,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+5,ALUNO-5,2021,0,10.0,7.5,5.4,7.5,8.5,7.4,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+997,Aluno-997,2023,2,10.0,8.7,7.1,3.77,7.34375,8.595,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+943,Aluno-943,2023,0,10.0,9.4,8.0,7.52,7.34375,9.925,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1098,Aluno-1098,2024,3,5.0,5.822406257,3.5,7.51,7.34375,6.7475,Agata,Queda recente de aprendizado,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+590,Aluno-590,2023,2,10.0,9.7,6.5,3.77,7.34375,8.34,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+587,Aluno-587,2024,3,5.0,7.380952381,6.25,7.51,7.34375,5.74,Agata,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+747,ALUNO-747,2022,1,10.0,8.86458333333333,6.77777777777777,5.625,6.25,7.416665,Ametista,Risco estrutural,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1136,ALUNO-1136,2021,0,10.0,9.2,8.2,7.5,8.8,9.1,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+388,Aluno-388,2024,3,5.0,6.349206349,4.33333333333333,7.51,7.34375,5.764,Quartzo,Queda recente de aprendizado,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+484,Aluno-484,2023,2,5.0,7.5,3.6,2.52,7.34375,6.8,Quartzo,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+1032,Aluno-1032,2023,0,5.0,9.5,6.0,7.52,7.34375,7.563333333,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1208,Aluno-1208,2023,2,5.0,8.8,6.2,2.52,7.34375,6.2525,Ametista,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+1203,Aluno-1203,2023,2,10.0,10.0,7.2,2.52,7.34375,7.8775,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+919,ALUNO-919,2022,3,10.0,4.02745098039215,1.47777777777777,6.875,7.65625,6.38888666666666,Quartzo,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+258,Aluno-258,2024,3,5.0,6.94444444433333,2.5,7.51,7.34375,6.732,Agata,Queda recente de aprendizado,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+457,Aluno-457,2023,0,5.0,8.6,8.1,7.52,7.34375,8.045,Topázio,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+534,Aluno-534,2022,0,5.0,7.4,7.1,7.5,7.34375,7.333,Ametista,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+518,Aluno-518,2023,2,5.0,8.5,6.7,5.0,7.34375,6.9175,Ametista,Falha de aprendizado,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+1173,Aluno-1173,2024,0,10.0,9.665831245,5.83333333333333,7.51,7.34375,8.2,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+42,Aluno-42,2023,2,10.0,8.6,5.7,5.63,7.34375,6.6675,Agata,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+983,ALUNO-983,2021,0,10.0,7.5,7.2,7.5,8.5,9.8,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+706,ALUNO-706,2022,3,5.0,7.39583333333333,5.27777777777777,5.625,7.34375,6.91666,Ágata,Queda recente de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+693,Aluno-693,2024,0,10.0,9.5227272725,8.0,9.38,7.34375,8.42,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1159,ALUNO-1159,2021,0,5.0,8.3,8.6,7.5,8.3,8.4,Ametista,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+356,Aluno-356,2023,2,5.0,8.5,3.4,2.52,7.34375,6.5025,Agata,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+529,ALUNO-529,2022,0,5.0,7.60141093474426,9.5,7.5,6.25,7.55556,Ametista,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+579,ALUNO-579,2022,0,10.0,8.35497835497835,8.08333333333333,6.25,6.45833333333333,8.00000333333333,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1000,Aluno-1000,2023,2,10.0,9.4,7.0,3.77,7.34375,8.92,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1059,Aluno-1059,2024,0,5.0,10.0,7.5,6.26,7.34375,9.23,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+564,ALUNO-564,2021,3,10.0,3.9,2.8,7.5,7.2,4.8,Ágata,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+884,Aluno-884,2023,2,2.5,9.7,8.8,4.39,7.34375,8.66,Topázio,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+43,Aluno-43,2023,3,5.0,6.7,5.0,5.63,7.34375,7.5875,Agata,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+295,ALUNO-295,2022,1,5.0,8.16666666666666,6.5,7.5,6.04166666666666,7.66666666666666,Ametista,Risco estrutural,IPP,Baixa persistência,Trabalhar persistência com acompanhamento individual e metas de continuidade
+946,ALUNO-946,2022,0,10.0,8.78472222222222,7.44444444444444,7.5,7.65625,7.2083325,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+718,Aluno-718,2024,0,10.0,9.5138888885,9.5,5.635,7.34375,7.946666667,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+562,ALUNO-562,2022,0,10.0,8.28205128205128,8.14444444444444,7.5,7.1875,6.999995,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+608,ALUNO-608,2021,2,10.0,7.2,8.5,5.0,7.7,8.5,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+619,Aluno-619,2022,0,10.0,8.0,9.0,7.5,7.34375,7.333,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+352,ALUNO-352,2022,3,10.0,6.7748840426859,4.66666666666666,7.5,7.1875,7.3749975,Ágata,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1090,Aluno-1090,2023,2,5.0,9.6,9.0,2.52,7.34375,7.88,Ametista,Falha de aprendizado,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+88,ALUNO-88,2021,0,10.0,9.6,7.4,6.3,8.1,9.1,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1343,Aluno-1343,2024,0,5.0,10.0,9.75,7.51,7.34375,8.5,Topázio,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+809,Aluno-809,2022,3,5.0,6.6,6.3,6.3,7.34375,7.417,Ametista,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+847,Aluno-847,2023,2,10.0,9.1,7.6,2.52,7.34375,5.84,Agata,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+748,Aluno-748,2024,0,5.0,10.0,7.75,7.51,7.34375,8.005,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+442,Aluno-442,2024,3,10.0,5.91519607833333,5.0,5.635,7.34375,7.8775,Agata,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+128,Aluno-128,2023,2,5.0,7.3,5.7,5.0,7.34375,7.5475,Agata,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+1287,Aluno-1287,2024,2,5.0,9.3064182195,7.75,2.51,7.34375,8.223333333,Ametista,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+900,ALUNO-900,2022,0,5.0,7.31294949329846,6.5,7.5,7.65625,7.54166,Ametista,Deterioração gradual,IPP,Baixa persistência,Trabalhar persistência com acompanhamento individual e metas de continuidade
+649,Aluno-649,2023,2,5.0,9.3,6.5,3.77,7.34375,8.836666667,Ametista,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+794,ALUNO-794,2022,0,2.5,9.79166666666666,6.58888888888888,5.625,7.96875,8.125,Ametista,Deterioração gradual,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+1289,ALUNO-1289,2022,0,5.0,8.75,5.64444444444444,7.5,7.1875,6.624995,Ametista,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+677,Aluno-677,2022,0,5.0,9.4,7.3,7.5,7.34375,8.583,Topázio,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+1287,ALUNO-1287,2021,0,5.0,10.0,5.3,7.5,7.5,8.4,Ametista,Deterioração gradual,IPP,Baixa persistência,Trabalhar persistência com acompanhamento individual e metas de continuidade
+1157,Aluno-1157,2023,0,10.0,8.8,5.7,6.26,7.34375,7.0025,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+777,ALUNO-777,2021,3,5.0,3.8,4.3,7.5,7.5,6.8,Quartzo,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+417,Aluno-417,2023,0,10.0,9.7,7.8,7.52,7.34375,8.2125,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1289,Aluno-1289,2024,0,5.0,9.4444444445,7.75,7.51,7.34375,6.166666667,Ametista,Deterioração gradual,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+1290,Aluno-1290,2024,0,10.0,10.0,8.75,7.51,7.34375,8.28,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+803,ALUNO-803,2021,0,10.0,6.7,6.6,7.5,8.8,7.5,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1151,Aluno-1151,2023,2,5.0,9.5,8.3,2.52,7.34375,7.545,Ametista,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+1066,ALUNO-1066,2022,3,10.0,8.48942006269592,5.52222222222222,7.5,6.875,6.54166,Ametista,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+112,Aluno-112,2024,0,5.0,7.97817460333333,8.0,7.51,7.34375,8.004,Topázio,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+267,ALUNO-267,2022,0,5.0,9.72463768115942,7.86666666666666,5.625,7.34375,7.8333325,Ametista,Deterioração gradual,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+1020,Aluno-1020,2024,0,10.0,9.7727272725,9.0,6.88,7.34375,8.84,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+787,Aluno-787,2024,0,5.0,9.75,7.25,7.51,7.34375,7.325,Ametista,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+894,Aluno-894,2023,0,10.0,9.9,9.4,7.52,7.34375,10.01,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1010,ALUNO-1010,2021,0,10.0,10.0,5.2,7.5,7.5,8.1,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+499,Aluno-499,2024,0,10.0,9.0476190475,4.75,7.51,7.34375,7.5,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+877,ALUNO-877,2021,3,5.0,7.5,1.9,7.5,8.1,8.5,Ágata,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+371,Aluno-371,2022,0,10.0,8.0,8.4,6.9,7.34375,7.667,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+29,ALUNO-29,2022,3,5.0,4.83229638009049,5.77777777777777,7.5,6.71875,5.7083325,Quartzo,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+308,Aluno-308,2024,2,10.0,8.71491228066667,6.5,5.635,7.34375,7.1225,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+451,ALUNO-451,2021,3,10.0,5.0,1.0,7.5,8.3,7.7,Ágata,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+964,ALUNO-964,2021,3,5.0,5.4,6.3,7.5,8.3,8.0,Ágata,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+91,ALUNO-91,2022,0,10.0,7.91857567719636,7.91666666666666,7.5,6.45833333333333,7.50000333333333,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+35,ALUNO-35,2021,0,5.0,9.4,8.2,7.5,8.4,9.4,Topázio,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+774,Aluno-774,2024,2,5.0,6.392857143,3.75,2.51,7.34375,6.405,Quartzo,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+524,Aluno-524,2023,2,5.0,9.2,8.9,2.52,7.34375,7.42,Ametista,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+867,Aluno-867,2024,0,10.0,7.409090909,8.5,7.51,7.34375,7.5,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+247,Aluno-247,2023,0,5.0,8.5,7.2,7.52,7.34375,7.5425,Ametista,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+637,Aluno-637,2023,0,5.0,9.5,8.5,7.52,7.34375,8.17,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+803,Aluno-803,2022,0,5.0,7.2,6.3,7.5,7.34375,7.417,Agata,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+322,Aluno-322,2023,2,5.0,8.3,5.3,2.52,7.34375,8.045,Ametista,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+1048,Aluno-1048,2023,2,10.0,9.5,8.2,3.77,7.34375,8.5,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+216,Aluno-216,2022,3,10.0,8.5,7.0,7.5,7.34375,5.583,Ametista,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+891,Aluno-891,2023,0,10.0,9.5,7.5,6.89,7.34375,7.995,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+649,Aluno-649,2024,3,5.0,6.00448179266667,3.66666666666667,8.76,7.34375,7.333333333,Agata,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1093,Aluno-1093,2023,2,5.0,9.3,9.2,2.52,7.34375,8.2975,Topázio,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+1120,Aluno-1120,2023,0,10.0,9.6,8.3,7.52,7.34375,9.676666667,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+383,Aluno-383,2023,2,10.0,8.8,6.5,3.14,7.34375,7.5,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+714,Aluno-714,2023,2,5.0,8.0,7.4,3.14,7.34375,7.223333333,Agata,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+638,Aluno-638,2024,3,5.0,5.7272727275,5.0,7.51,7.34375,5.936666667,Agata,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+1119,Aluno-1119,2023,2,10.0,9.7,5.9,3.77,7.34375,8.453333333,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+555,ALUNO-555,2021,0,5.0,10.0,6.6,8.1,8.5,8.8,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+729,Aluno-729,2024,2,5.0,8.4166666665,6.0,2.51,7.34375,7.5,Agata,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+905,Aluno-905,2024,3,5.0,7.7794117645,3.0,7.51,7.34375,6.99,Agata,Queda recente de aprendizado,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+464,Aluno-464,2024,3,5.0,7.85146198833333,4.33333333333333,8.76,7.34375,7.1175,Agata,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+662,Aluno-662,2023,0,5.0,7.6,6.7,6.27,7.34375,6.72,Agata,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+423,Aluno-423,2023,3,5.0,8.7,3.4,6.89,7.34375,7.45,Agata,Queda recente de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+318,Aluno-318,2022,3,5.0,6.9,5.8,6.9,7.34375,6.111,Agata,Queda recente de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+1002,ALUNO-1002,2021,0,5.0,8.3,7.5,7.5,7.7,8.1,Ametista,Deterioração gradual,IPP,Baixa persistência,Trabalhar persistência com acompanhamento individual e metas de continuidade
+200,Aluno-200,2023,3,5.0,4.5,4.3,2.52,7.34375,7.17,Quartzo,Queda recente de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+632,ALUNO-632,2022,1,5.0,7.58333333333333,1.25,7.5,6.04166666666666,7.27777666666666,Quartzo,Risco estrutural,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+1035,ALUNO-1035,2021,0,5.0,7.9,6.0,6.9,8.8,9.6,Ametista,Deterioração gradual,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+631,Aluno-631,2022,0,5.0,6.8,7.0,7.5,7.34375,7.222,Agata,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+542,Aluno-542,2024,3,5.0,6.48136645966667,3.93333333333333,8.13,7.34375,6.232,Agata,Queda recente de aprendizado,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+539,Aluno-539,2024,0,5.0,9.23333333333333,5.83333333333333,7.51,7.34375,9.13,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+530,Aluno-530,2023,2,5.0,8.8,5.7,5.0,7.34375,7.46,Ametista,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+668,ALUNO-668,2021,3,5.0,5.8,4.5,7.5,7.5,6.8,Ágata,Queda recente de aprendizado,IPP,Baixa persistência,Trabalhar persistência com acompanhamento individual e metas de continuidade
+1053,Aluno-1053,2023,0,5.0,9.1,8.6,6.27,7.34375,8.616666667,Ametista,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+836,Aluno-836,2023,0,5.0,9.6,6.7,6.27,7.34375,8.085,Ametista,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+1102,Aluno-1102,2023,2,10.0,9.5,7.5,5.0,7.34375,7.56,Topázio,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+878,Aluno-878,2023,2,5.0,9.5,8.1,2.52,7.34375,7.34,Agata,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+160,Aluno-160,2022,2,5.0,7.2,5.3,5.6,7.34375,8.25,Agata,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+508,Aluno-508,2023,2,5.0,8.6,7.5,2.52,7.34375,8.6725,Ametista,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+927,ALUNO-927,2022,1,5.0,7.46616161616161,6.25,5.625,6.04166666666666,7.5,Ágata,Risco estrutural,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+1224,Aluno-1224,2023,2,5.0,9.4,8.0,5.0,7.34375,7.6325,Ametista,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+301,ALUNO-301,2021,0,10.0,9.2,6.3,7.5,8.5,8.4,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+58,Aluno-58,2024,0,10.0,9.82456140366667,7.33333333333333,7.51,7.34375,8.62,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+403,ALUNO-403,2022,3,10.0,5.28474399164054,3.94444444444444,6.25,7.34375,6.95833,Quartzo,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+681,ALUNO-681,2021,3,5.0,6.3,6.6,6.9,7.3,7.5,Ágata,Queda recente de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+124,ALUNO-124,2022,1,10.0,8.03391053391053,5.16666666666666,7.5,5.41666666666666,6.88888666666666,Ametista,Risco estrutural,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+249,Aluno-249,2024,3,5.0,6.645021645,5.0,5.0,7.34375,7.064,Agata,Queda recente de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+1216,Aluno-1216,2023,0,10.0,9.0,7.9,5.63,7.34375,7.795,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1062,Aluno-1062,2023,2,10.0,7.7,6.2,3.77,7.34375,8.503333333,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+472,Aluno-472,2024,3,5.0,7.48447205,6.25,7.51,7.34375,6.333333333,Agata,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+601,Aluno-601,2022,0,10.0,9.7,5.7,7.5,7.34375,7.167,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+387,ALUNO-387,2021,3,5.0,5.8,6.6,5.0,7.3,5.9,Ágata,Queda recente de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+916,ALUNO-916,2022,0,10.0,10.0,8.51111111111111,9.375,9.0625,9.666675,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+320,Aluno-320,2023,0,10.0,9.9,5.5,7.52,7.34375,8.96,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1093,ALUNO-1093,2021,3,5.0,7.2,5.4,7.5,8.0,6.8,Ametista,Queda recente de aprendizado,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+642,Aluno-642,2024,2,10.0,9.14920634933333,4.0,3.76,7.34375,6.9975,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+98,Aluno-98,2024,0,5.0,9.546,8.9,7.1975,7.34375,7.5,Topázio,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+1115,Aluno-1115,2023,3,5.0,8.3,4.0,7.52,7.34375,7.56,Agata,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+812,ALUNO-812,2022,1,5.0,9.31450357920946,8.41666666666666,7.5,5.625,8.083335,Ametista,Risco estrutural,IPP,Baixa persistência,Trabalhar persistência com acompanhamento individual e metas de continuidade
+569,ALUNO-569,2022,0,10.0,10.0,9.5,7.5,6.04166666666666,7.88889,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1341,Aluno-1341,2024,0,10.0,9.246031746,10.0,7.51,7.34375,6.0,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+685,ALUNO-685,2021,3,10.0,5.0,4.7,6.3,7.2,7.1,Ágata,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+999,ALUNO-999,2021,2,10.0,6.1,6.4,4.4,6.9,7.2,Ágata,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+886,Aluno-886,2024,0,10.0,10.0,8.75,8.13,7.34375,8.28,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+601,Aluno-601,2024,0,10.0,10.0,8.75,7.505,7.34375,8.425,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+345,Aluno-345,2023,3,5.0,6.8,4.6,6.26,7.34375,7.1725,Agata,Queda recente de aprendizado,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+1025,Aluno-1025,2024,0,10.0,7.727272727,9.0,7.51,7.34375,7.783333333,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+934,Aluno-934,2024,0,10.0,9.75,8.5,7.51,7.34375,7.75,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+400,Aluno-400,2023,2,5.0,9.0,4.1,2.52,7.34375,7.375,Agata,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+1017,Aluno-1017,2023,2,10.0,8.0,7.7,5.02,7.34375,8.116666667,Agata,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+616,Aluno-616,2023,2,5.0,6.6,6.8,5.02,7.34375,6.783333333,Quartzo,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+577,Aluno-577,2023,2,5.0,8.2,7.4,3.77,7.34375,7.673333333,Ametista,Falha de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+454,Aluno-454,2024,3,5.0,6.63313840166667,3.66666666666667,6.255,7.34375,5.833333333,Quartzo,Queda recente de aprendizado,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+906,Aluno-906,2023,0,10.0,9.2,8.6,7.52,7.34375,6.95,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1173,Aluno-1173,2023,2,10.0,9.7,6.0,2.52,7.34375,8.1225,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+674,Aluno-674,2023,2,5.0,8.5,5.2,3.77,7.34375,8.67,Agata,Falha de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+712,Aluno-712,2022,3,5.0,5.1,8.0,5.0,7.34375,5.833,Agata,Queda recente de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+477,ALUNO-477,2022,1,5.0,6.77441077441077,5.08333333333333,5.0,6.45833333333333,6.61110666666666,Ágata,Risco estrutural,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+1210,ALUNO-1210,2022,1,10.0,8.24867724867724,7.58333333333333,6.875,5.625,7.916665,Ametista,Risco estrutural,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+162,Aluno-162,2022,3,5.0,8.5,5.5,7.5,7.34375,6.542,Ametista,Queda recente de aprendizado,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+815,Aluno-815,2023,2,5.0,8.6,6.5,5.02,7.34375,7.063333333,Agata,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+632,Aluno-632,2023,0,5.0,9.1,7.4,5.64,7.34375,8.563333333,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+428,Aluno-428,2024,2,10.0,8.898245614,5.0,5.635,7.34375,7.625,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+299,Aluno-299,2022,2,10.0,8.2,6.8,5.0,7.34375,6.708,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+628,ALUNO-628,2022,0,5.0,9.16289592760181,8.75,7.5,6.5625,8.916665,Topázio,Deterioração gradual,IPP,Baixa persistência,Trabalhar persistência com acompanhamento individual e metas de continuidade
+106,ALUNO-106,2021,0,5.0,7.9,7.9,7.5,8.3,10.0,Ametista,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+1331,Aluno-1331,2024,0,5.0,7.2916666665,7.25,7.51,7.34375,7.245,Ametista,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+278,Aluno-278,2022,2,5.0,9.2,6.0,5.6,7.34375,7.417,Ametista,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+658,ALUNO-658,2022,1,5.0,6.03842940685046,2.83333333333333,7.5,5.3125,7.166665,Quartzo,Risco estrutural,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+829,ALUNO-829,2021,3,10.0,3.9,3.6,7.5,7.3,7.2,Ágata,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+132,Aluno-132,2023,2,10.0,8.7,6.5,2.52,7.34375,7.715,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+913,Aluno-913,2023,0,10.0,8.5,7.9,6.89,7.34375,9.245,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+646,ALUNO-646,2021,0,10.0,7.9,6.6,7.5,7.7,7.8,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1028,ALUNO-1028,2022,2,5.0,6.66666666666666,7.44444444444444,4.375,7.5,5.7083275,Ágata,Falha de aprendizado,IPP,Baixa persistência,Trabalhar persistência com acompanhamento individual e metas de continuidade
+777,Aluno-777,2023,0,10.0,9.3,6.3,7.52,7.34375,8.84,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1150,ALUNO-1150,2022,1,5.0,8.7719298245614,6.41666666666666,5.0,5.9375,8.25,Ametista,Risco estrutural,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+518,Aluno-518,2024,2,10.0,6.830075188,4.0,2.51,7.34375,6.94,Agata,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1302,ALUNO-1302,2021,3,5.0,3.3,0.6,7.5,7.2,5.3,Quartzo,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+854,Aluno-854,2023,2,10.0,9.5,6.0,3.77,7.34375,8.01,Agata,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1137,Aluno-1137,2024,3,10.0,7.58863826233333,3.5,8.13,7.34375,7.4575,Ametista,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+437,ALUNO-437,2021,3,10.0,5.0,4.0,7.5,7.7,6.6,Ágata,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+980,Aluno-980,2023,2,10.0,9.8,6.3,5.02,7.34375,9.34,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+185,ALUNO-185,2022,1,10.0,8.24354657687991,8.8,8.125,5.625,7.41667,Ametista,Risco estrutural,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+588,Aluno-588,2024,0,10.0,9.83333333333333,7.83333333333333,7.51,7.34375,8.0,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1155,ALUNO-1155,2022,1,10.0,8.05387205387205,7.58333333333333,7.5,5.625,7.91666,Ametista,Risco estrutural,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+364,ALUNO-364,2022,1,10.0,6.8694885361552,5.0,4.375,6.04166666666666,5.77778,Ágata,Risco estrutural,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+993,ALUNO-993,2022,0,10.0,6.28119778613199,8.88888888888889,5.625,7.5,7.2916675,Ágata,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+51,ALUNO-51,2021,0,10.0,9.2,5.4,7.5,7.7,8.6,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1308,Aluno-1308,2024,3,5.0,7.445652174,6.0,7.51,7.34375,5.933333333,Agata,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+1171,Aluno-1171,2023,0,10.0,8.4,8.7,5.0,7.34375,8.88,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+246,ALUNO-246,2021,2,5.0,8.8,4.6,5.6,8.5,7.7,Ametista,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+945,Aluno-945,2023,0,5.0,9.2,7.9,7.52,7.34375,6.84,Topázio,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+640,Aluno-640,2022,3,5.0,8.4,4.8,7.5,7.34375,6.778,Agata,Queda recente de aprendizado,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+1066,Aluno-1066,2024,0,5.0,8.3954451345,7.25,6.26,7.34375,7.386666667,Ametista,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+708,ALUNO-708,2021,0,5.0,9.2,5.1,7.5,8.3,7.2,Ametista,Deterioração gradual,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+646,Aluno-646,2024,0,5.0,9.26666666666667,6.16666666666667,7.51,7.34375,7.7475,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+801,Aluno-801,2023,0,5.0,7.5,7.6,7.52,7.34375,7.12,Agata,Deterioração gradual,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+352,Aluno-352,2023,0,5.0,8.1,7.2,6.26,7.34375,7.17,Ametista,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+398,Aluno-398,2024,3,10.0,5.73333333333333,8.0,7.51,7.34375,6.553333333,Ametista,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+542,Aluno-542,2023,2,5.0,9.7,6.3,5.0,7.34375,9.006666667,Ametista,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+521,ALUNO-521,2022,0,10.0,7.37561289285427,6.66666666666666,6.25,6.66666666666666,7.5,Ágata,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+3,ALUNO-3,2021,3,10.0,6.9,5.6,6.3,7.3,7.2,Ametista,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1298,Aluno-1298,2024,0,5.0,6.6433566435,6.75,7.51,7.34375,7.393333333,Ametista,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+459,Aluno-459,2022,0,5.0,9.1,7.3,8.1,7.34375,7.222,Ametista,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+965,Aluno-965,2024,3,5.0,6.4772727275,2.25,7.51,7.34375,6.83,Agata,Queda recente de aprendizado,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+672,Aluno-672,2024,3,5.0,3.95256917,0.0,6.26,7.34375,4.496666667,Quartzo,Queda recente de aprendizado,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+973,ALUNO-973,2021,3,10.0,7.9,2.7,6.3,6.9,6.8,Ágata,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1040,Aluno-1040,2023,0,5.0,9.3,6.6,7.52,7.34375,8.06,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+920,Aluno-920,2023,3,5.0,6.3,6.1,7.52,7.34375,6.35,Agata,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+87,Aluno-87,2024,0,10.0,9.649122807,9.16666666666667,9.375,7.34375,9.623333333,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+741,Aluno-741,2024,3,5.0,5.2964426875,3.75,5.005,7.34375,4.223333333,Quartzo,Queda recente de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+443,Aluno-443,2022,0,5.0,9.1,5.6,7.5,7.34375,8.5,Ametista,Deterioração gradual,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+143,ALUNO-143,2022,3,10.0,6.444493006993,5.11111111111111,5.0,7.03125,7.208335,Ágata,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+944,ALUNO-944,2022,3,5.0,2.91757246376811,0.944444444444444,7.5,6.09375,4.6249975,Quartzo,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+790,Aluno-790,2024,3,5.0,6.811594203,6.75,7.51,7.34375,6.883333333,Agata,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+352,Aluno-352,2024,3,10.0,4.45374800633333,3.16666666666667,6.26,7.34375,6.7925,Quartzo,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1091,Aluno-1091,2023,2,5.0,9.0,9.5,2.52,7.34375,9.1725,Topázio,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+512,Aluno-512,2022,0,5.0,9.3,6.2,7.5,7.34375,7.722,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+910,ALUNO-910,2021,3,5.0,7.8,5.0,7.5,7.5,6.7,Ágata,Queda recente de aprendizado,IPP,Baixa persistência,Trabalhar persistência com acompanhamento individual e metas de continuidade
+424,Aluno-424,2023,2,5.0,9.9,6.4,2.52,7.34375,7.7925,Ametista,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+1160,Aluno-1160,2023,2,10.0,8.7,2.7,2.52,7.34375,7.2575,Agata,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+715,Aluno-715,2024,3,5.0,5.2506265665,2.75,3.755,7.34375,4.67,Quartzo,Queda recente de aprendizado,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+451,Aluno-451,2023,2,5.0,9.5,8.9,4.39,7.34375,9.896666667,Topázio,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1286,Aluno-1286,2024,3,10.0,5.051759834,7.0,2.51,7.34375,4.61,Quartzo,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+675,Aluno-675,2023,0,10.0,8.0,8.3,7.52,7.34375,8.34,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+518,ALUNO-518,2021,0,10.0,6.7,7.9,7.5,8.1,7.7,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+690,Aluno-690,2023,0,5.0,9.8,9.1,6.89,7.34375,10.01,Topázio,Deterioração gradual,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+929,Aluno-929,2024,0,10.0,9.4736842105,6.75,7.51,7.34375,7.58,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1116,Aluno-1116,2024,3,5.0,3.35555555566667,2.33333333333333,6.26,7.34375,5.066,Quartzo,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+884,ALUNO-884,2022,1,5.0,5.99543845315904,4.9,7.5,4.58333333333333,6.16667,Quartzo,Risco estrutural,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+1133,Aluno-1133,2024,0,10.0,9.84126984133333,4.5,8.75,7.34375,8.83,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1042,Aluno-1042,2023,2,5.0,6.5,4.3,3.77,7.34375,7.666666667,Quartzo,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+93,Aluno-93,2024,0,10.0,9.931666667,7.48333333333333,6.2575,7.34375,7.5,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+782,Aluno-782,2022,0,10.0,8.4,6.0,7.5,7.34375,7.0,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+873,Aluno-873,2023,0,5.0,9.7,7.0,7.52,7.34375,8.67,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+401,Aluno-401,2023,2,5.0,8.1,7.3,2.52,7.34375,7.116666667,Agata,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+462,Aluno-462,2022,3,5.0,8.5,3.6,7.5,7.34375,6.778,Agata,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+668,ALUNO-668,2022,1,10.0,7.32479346514434,5.25,7.5,6.04166666666666,6.94444333333333,Ágata,Risco estrutural,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+583,Aluno-583,2024,0,5.0,8.90445517966667,5.0,8.135,7.34375,6.87,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+240,Aluno-240,2022,2,10.0,8.1,4.7,5.0,7.34375,7.042,Agata,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1019,Aluno-1019,2023,2,5.0,9.1,4.3,5.02,7.34375,7.836666667,Ametista,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+960,Aluno-960,2024,3,5.0,8.095238095,3.0,7.51,7.34375,5.33,Quartzo,Queda recente de aprendizado,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+106,Aluno-106,2024,2,10.0,8.761904762,5.66666666666667,5.635,7.34375,7.872,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+465,Aluno-465,2023,2,5.0,9.4,8.5,2.52,7.34375,8.17,Topázio,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+308,Aluno-308,2023,3,5.0,6.8,4.9,5.0,7.34375,7.5025,Agata,Queda recente de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+1021,Aluno-1021,2023,2,5.0,9.2,3.3,3.77,7.34375,7.893333333,Agata,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+669,Aluno-669,2023,3,5.0,7.8,5.0,7.52,7.34375,7.06,Ametista,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+828,ALUNO-828,2021,0,5.0,7.5,7.3,7.5,8.1,7.7,Ametista,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+51,ALUNO-51,2022,1,10.0,9.20344827586206,5.08333333333333,7.5,5.625,6.91666,Ágata,Risco estrutural,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+557,ALUNO-557,2021,0,5.0,8.3,5.9,6.9,8.1,8.9,Ametista,Deterioração gradual,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+251,Aluno-251,2024,2,5.0,8.612836439,4.5,5.63,7.34375,7.326666667,Agata,Falha de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+306,Aluno-306,2022,3,10.0,6.8,5.2,7.5,7.34375,5.958,Agata,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+113,ALUNO-113,2021,3,5.0,7.1,4.6,7.5,8.1,6.6,Ágata,Queda recente de aprendizado,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+1141,Aluno-1141,2024,3,5.0,6.19153766766667,4.16666666666667,7.51,7.34375,6.7825,Agata,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+313,Aluno-313,2023,2,5.0,8.7,3.9,2.52,7.34375,7.75,Ametista,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+1000,Aluno-1000,2024,0,10.0,9.5454545455,7.75,6.26,7.34375,7.835,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+432,Aluno-432,2024,0,5.0,10.0,5.5,6.26,7.34375,7.2875,Ametista,Deterioração gradual,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+602,ALUNO-602,2022,1,5.0,3.83844189016602,2.25,5.0,4.375,6.833325,Quartzo,Risco estrutural,IPP,Baixa persistência,Trabalhar persistência com acompanhamento individual e metas de continuidade
+467,Aluno-467,2022,2,5.0,8.4,5.5,5.0,7.34375,7.111,Agata,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+651,Aluno-651,2023,2,5.0,8.2,9.3,3.77,7.34375,7.95,Ametista,Falha de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+766,Aluno-766,2023,2,5.0,8.7,8.7,4.39,7.34375,8.336666667,Topázio,Falha de aprendizado,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+1192,Aluno-1192,2023,2,5.0,8.7,5.8,2.52,7.34375,7.6675,Agata,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+828,ALUNO-828,2022,3,5.0,4.8458850931677,3.83333333333333,8.125,7.96875,7.27778,Ágata,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+463,ALUNO-463,2021,0,10.0,8.3,7.0,7.5,8.8,8.2,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+910,ALUNO-910,2022,3,5.0,4.16078431372549,2.96666666666666,5.0,7.03125,6.38888666666666,Quartzo,Queda recente de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+660,Aluno-660,2022,0,5.0,9.0,6.9,7.5,7.34375,9.083,Topázio,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+907,Aluno-907,2023,0,10.0,9.6,9.3,7.52,7.34375,8.336666667,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+81,Aluno-81,2024,0,10.0,9.33333333333333,7.5,6.26,7.34375,7.798,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+645,Aluno-645,2023,0,5.0,8.5,7.3,6.27,7.34375,8.116666667,Ametista,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+359,Aluno-359,2024,0,10.0,7.16269841266667,5.5,6.26,7.34375,8.333333333,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+982,Aluno-982,2023,2,10.0,9.1,8.6,2.52,7.34375,8.835,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1090,ALUNO-1090,2021,0,5.0,8.8,3.7,7.5,7.9,9.0,Ametista,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+1172,Aluno-1172,2024,3,5.0,6.06349206333333,3.33333333333333,6.26,7.34375,6.196,Quartzo,Queda recente de aprendizado,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+983,Aluno-983,2023,2,10.0,9.9,8.8,2.52,7.34375,9.415,Topázio,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+613,Aluno-613,2024,0,5.0,9.56666666666667,7.33333333333333,7.51,7.34375,6.25,Ametista,Deterioração gradual,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+748,Aluno-748,2022,0,5.0,9.0,9.1,7.5,7.34375,8.25,Topázio,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+681,Aluno-681,2024,3,5.0,7.840909091,2.5,6.26,7.34375,6.665,Agata,Queda recente de aprendizado,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+1312,Aluno-1312,2024,0,10.0,8.333333333,6.5,7.51,7.34375,8.336666667,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1322,Aluno-1322,2024,0,5.0,9.0,7.5,7.51,7.34375,8.165,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+824,ALUNO-824,2022,3,5.0,6.06060606060606,4.25,7.5,6.25,5.88888666666666,Quartzo,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+959,ALUNO-959,2022,0,5.0,9.84126984126984,9.0,7.5,6.25,7.5,Topázio,Deterioração gradual,IPP,Baixa persistência,Trabalhar persistência com acompanhamento individual e metas de continuidade
+375,Aluno-375,2024,0,5.0,9.44358974366667,6.83333333333333,7.51,7.34375,6.432,Ametista,Deterioração gradual,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+737,ALUNO-737,2021,0,10.0,7.1,6.9,7.5,8.5,8.1,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+911,ALUNO-911,2021,3,5.0,6.9,5.1,5.0,7.5,7.0,Ágata,Queda recente de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+547,Aluno-547,2024,3,5.0,7.03062002833333,6.83333333333333,8.135,7.34375,5.932,Ametista,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+1304,Aluno-1304,2024,3,2.5,7.9575163395,6.0,8.135,7.34375,6.493333333,Ametista,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+563,Aluno-563,2024,0,10.0,9.461904762,8.33333333333333,8.135,7.34375,7.468,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1256,ALUNO-1256,2021,3,5.0,7.5,3.6,7.5,7.7,6.9,Ágata,Queda recente de aprendizado,IPP,Baixa persistência,Trabalhar persistência com acompanhamento individual e metas de continuidade
+209,ALUNO-209,2021,0,5.0,7.9,4.2,7.5,8.1,9.2,Ametista,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+495,Aluno-495,2022,0,10.0,8.9,8.4,7.5,7.34375,8.056,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+729,ALUNO-729,2022,0,5.0,8.35880355276907,7.16666666666666,6.25,7.8125,7.625,Ametista,Deterioração gradual,IPP,Baixa persistência,Trabalhar persistência com acompanhamento individual e metas de continuidade
+295,ALUNO-295,2021,3,10.0,7.1,6.9,7.5,7.5,5.3,Ágata,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+57,ALUNO-57,2021,3,10.0,6.9,6.0,6.3,7.7,7.0,Ametista,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1223,Aluno-1223,2023,2,10.0,9.3,9.0,5.0,7.34375,7.2925,Topázio,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1154,Aluno-1154,2024,0,10.0,9.2,8.0,7.51,7.34375,6.745,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+215,Aluno-215,2023,2,10.0,6.6,6.9,2.52,7.34375,7.7125,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+543,Aluno-543,2023,2,10.0,9.8,6.5,2.52,7.34375,9.006666667,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+613,ALUNO-613,2022,3,5.0,7.2334455667789,3.08333333333333,5.0,6.45833333333333,7.77777666666666,Ágata,Queda recente de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+645,ALUNO-645,2021,3,10.0,6.7,5.3,7.5,7.5,6.2,Ágata,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+725,ALUNO-725,2021,3,10.0,0.4,0.0,7.5,7.5,3.4,Quartzo,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+348,Aluno-348,2023,2,5.0,8.7,4.4,2.52,7.34375,8.0075,Agata,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+1039,Aluno-1039,2023,0,5.0,9.9,6.2,7.52,7.34375,8.056666667,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+643,Aluno-643,2024,3,5.0,6.8660287085,4.5,7.51,7.34375,5.826666667,Agata,Queda recente de aprendizado,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+1034,Aluno-1034,2023,0,5.0,9.0,8.3,7.52,7.34375,8.393333333,Ametista,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+833,Aluno-833,2023,2,5.0,9.5,7.4,3.77,7.34375,8.56,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1145,Aluno-1145,2023,2,5.0,9.5,7.8,4.39,7.34375,8.63,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+331,Aluno-331,2024,3,10.0,7.73535353533333,3.5,8.755,7.34375,5.62,Agata,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+923,Aluno-923,2024,0,10.0,7.9545454545,5.5,7.51,7.34375,8.17,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+892,Aluno-892,2023,0,5.0,9.6,8.3,6.89,7.34375,10.01,Topázio,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+616,Aluno-616,2022,0,5.0,7.4,8.8,7.5,7.34375,7.278,Ametista,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+438,Aluno-438,2024,0,10.0,8.6630434785,8.25,7.51,7.34375,7.915,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+572,Aluno-572,2022,0,10.0,8.0,6.8,7.5,7.34375,6.833,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+831,ALUNO-831,2021,0,5.0,10.0,3.6,7.5,7.7,8.3,Ametista,Deterioração gradual,IPP,Baixa persistência,Trabalhar persistência com acompanhamento individual e metas de continuidade
+577,Aluno-577,2022,0,5.0,9.3,9.0,7.5,7.34375,7.111,Ametista,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+1008,Aluno-1008,2023,0,10.0,8.6,8.4,7.52,7.34375,7.5,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+603,Aluno-603,2023,2,5.0,8.9,7.0,2.52,7.34375,7.78,Agata,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+1303,Aluno-1303,2024,2,5.0,10.0,10.0,2.51,7.34375,9.17,Topázio,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+1065,ALUNO-1065,2022,1,5.0,9.002849002849,7.0,7.5,5.9375,7.58333,Ametista,Risco estrutural,IPP,Baixa persistência,Trabalhar persistência com acompanhamento individual e metas de continuidade
+1276,Aluno-1276,2024,2,5.0,9.3333333335,8.0,3.76,7.34375,7.05,Topázio,Falha de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+343,Aluno-343,2022,0,5.0,7.4,5.9,7.5,7.34375,7.167,Agata,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+1211,Aluno-1211,2023,2,5.0,9.1,6.2,5.0,7.34375,7.7125,Ametista,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+777,Aluno-777,2024,0,10.0,8.7757437075,4.5,7.51,7.34375,7.723333333,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+973,Aluno-973,2024,3,5.0,9.318181818,3.75,7.51,7.34375,6.585,Agata,Queda recente de aprendizado,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+909,ALUNO-909,2022,1,5.0,8.54812337421033,4.5,5.625,6.45833333333333,7.72222333333333,Ágata,Risco estrutural,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+250,Aluno-250,2023,0,10.0,9.3,8.3,5.63,7.34375,8.625,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+922,Aluno-922,2024,0,10.0,9.5227272725,7.75,7.51,7.34375,8.17,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+549,Aluno-549,2023,2,5.0,8.1,6.4,5.02,7.34375,7.5,Ametista,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+1168,ALUNO-1168,2021,0,5.0,9.6,6.9,7.5,8.1,9.0,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+171,Aluno-171,2024,0,5.0,7.83333333333333,8.33333333333333,5.635,7.34375,7.598,Ametista,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+1134,Aluno-1134,2024,0,10.0,8.914285714,6.0,7.51,7.34375,6.883333333,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+399,Aluno-399,2022,2,5.0,9.3,4.3,5.6,7.34375,7.5,Agata,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+816,Aluno-816,2023,0,10.0,9.8,8.9,7.52,7.34375,9.283333333,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+714,Aluno-714,2022,0,10.0,6.9,8.0,5.6,7.34375,7.25,Agata,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+959,Aluno-959,2024,0,10.0,9.7368421055,9.5,7.51,7.34375,7.5,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1103,ALUNO-1103,2021,3,5.0,2.9,3.3,5.6,6.0,5.5,Quartzo,Queda recente de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+971,Aluno-971,2024,3,10.0,7.909090909,6.75,7.51,7.34375,6.085,Agata,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+472,Aluno-472,2023,0,5.0,7.1,5.5,7.52,7.34375,8.223333333,Agata,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+805,Aluno-805,2024,2,5.0,9.523809524,6.0,4.38,7.34375,6.7075,Agata,Falha de aprendizado,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+549,Aluno-549,2024,3,5.0,7.204968944,5.75,6.255,7.34375,5.9125,Agata,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+90,Aluno-90,2023,0,5.0,9.6,7.7,7.52,7.34375,8.1725,Topázio,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+1015,ALUNO-1015,2022,0,10.0,8.92857142857142,7.26666666666666,9.375,7.96875,8.91667,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1285,Aluno-1285,2024,2,5.0,8.830227743,8.0,2.51,7.34375,8.946666667,Topázio,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+1097,ALUNO-1097,2022,0,10.0,9.69165085388994,6.67777777777777,5.625,7.96875,8.000005,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+969,ALUNO-969,2022,0,5.0,9.3070818070818,8.83333333333333,7.5,6.66666666666666,9.11111666666666,Topázio,Deterioração gradual,IPP,Baixa persistência,Trabalhar persistência com acompanhamento individual e metas de continuidade
+493,Aluno-493,2023,2,5.0,9.6,6.0,2.52,7.34375,8.84,Ametista,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+462,Aluno-462,2023,3,5.0,8.1,2.7,5.0,7.34375,6.5825,Agata,Queda recente de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+586,ALUNO-586,2022,1,5.0,9.31495405179615,6.33333333333333,7.5,6.25,7.5,Ametista,Risco estrutural,IPP,Baixa persistência,Trabalhar persistência com acompanhamento individual e metas de continuidade
+1180,Aluno-1180,2023,2,5.0,9.5,5.4,5.0,7.34375,7.7125,Ametista,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+516,Aluno-516,2023,2,5.0,9.8,9.3,2.52,7.34375,8.7175,Topázio,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+397,Aluno-397,2022,3,10.0,5.7,2.8,6.9,7.34375,7.167,Quartzo,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1186,Aluno-1186,2023,0,5.0,9.8,5.5,6.89,7.34375,7.3825,Ametista,Deterioração gradual,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+946,Aluno-946,2023,0,5.0,9.4,9.3,7.52,7.34375,7.0,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+275,ALUNO-275,2021,3,10.0,5.8,3.4,6.3,6.9,6.4,Ágata,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+954,Aluno-954,2024,0,10.0,8.8833992095,7.75,6.26,7.34375,7.835,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+499,ALUNO-499,2021,0,5.0,7.1,7.1,7.5,7.5,8.8,Ametista,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+625,Aluno-625,2022,0,5.0,9.2,7.8,7.5,7.34375,7.333,Ametista,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+622,ALUNO-622,2022,3,10.0,2.81666666666666,0.888888888888888,7.5,5.9375,3.875,Quartzo,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+288,ALUNO-288,2022,0,10.0,8.72469955724225,7.33333333333333,7.5,8.125,7.708335,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+629,Aluno-629,2022,0,10.0,10.0,7.0,7.5,7.34375,7.278,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1143,Aluno-1143,2024,3,5.0,5.201336675,3.16666666666667,9.38,7.34375,6.79,Quartzo,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+419,Aluno-419,2024,0,10.0,9.38245614066667,8.16666666666667,6.26,7.34375,8.5475,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1013,Aluno-1013,2024,2,10.0,5.693779904,7.75,2.51,7.34375,4.72,Quartzo,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+706,Aluno-706,2023,2,5.0,7.8,7.3,4.39,7.34375,8.08,Ametista,Falha de aprendizado,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+506,Aluno-506,2023,2,5.0,8.1,8.5,5.0,7.34375,7.92,Ametista,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+939,Aluno-939,2024,2,5.0,8.8833992095,5.0,5.63,7.34375,7.495,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+877,ALUNO-877,2022,3,5.0,6.60795454545454,4.75,7.5,7.03125,5.2083225,Ágata,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+184,Aluno-184,2024,0,10.0,8.69674185466667,8.16666666666667,6.26,7.34375,9.004,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+550,Aluno-550,2022,3,5.0,9.0,1.9,6.9,7.34375,6.25,Agata,Queda recente de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+1105,ALUNO-1105,2022,1,5.0,8.5050505050505,5.08333333333333,4.375,6.04166666666666,7.88889,Ágata,Risco estrutural,IPP,Baixa persistência,Trabalhar persistência com acompanhamento individual e metas de continuidade
+615,Aluno-615,2023,2,5.0,9.7,7.6,3.14,7.34375,8.616666667,Ametista,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+66,ALUNO-66,2022,3,5.0,5.78472222222222,7.77777777777777,7.5,7.34375,6.5416625,Ametista,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+635,Aluno-635,2022,3,5.0,4.9,1.5,6.9,7.34375,6.444,Quartzo,Queda recente de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+169,ALUNO-169,2022,1,5.0,8.94551282051282,6.91666666666666,5.0,5.625,7.999995,Ametista,Risco estrutural,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+757,Aluno-757,2023,0,5.0,9.6,9.3,7.52,7.34375,10.01,Topázio,Deterioração gradual,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+774,Aluno-774,2023,2,10.0,9.5,6.9,3.14,7.34375,6.34,Quartzo,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+238,ALUNO-238,2021,1,5.0,1.3,2.1,4.4,5.0,3.5,Quartzo,Risco estrutural,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+740,ALUNO-740,2021,3,5.0,5.8,4.2,7.5,7.5,7.6,Ágata,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+609,Aluno-609,2022,0,10.0,7.6,6.0,7.5,7.34375,7.056,Agata,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1110,Aluno-1110,2023,2,5.0,9.2,6.8,5.0,7.34375,8.73,Ametista,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+1108,Aluno-1108,2024,3,5.0,3.75465838533333,3.66666666666667,8.13,7.34375,5.422,Agata,Queda recente de aprendizado,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+409,Aluno-409,2023,2,5.0,9.5,8.0,2.52,7.34375,8.73,Ametista,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+608,ALUNO-608,2022,1,5.0,7.56089743589743,7.46666666666666,5.625,5.0,6.500005,Ágata,Risco estrutural,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+886,ALUNO-886,2022,1,10.0,9.66666666666666,7.25,7.5,6.25,6.88888333333333,Topázio,Risco estrutural,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+132,Aluno-132,2024,0,10.0,8.38095238066667,8.33333333333333,7.51,7.34375,8.44,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+153,Aluno-153,2023,2,10.0,7.4,6.4,2.52,7.34375,7.71,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+607,Aluno-607,2024,0,5.0,7.4782608695,7.0,7.51,7.34375,7.165,Ametista,Deterioração gradual,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+437,Aluno-437,2023,0,5.0,8.4,4.7,7.52,7.34375,7.78,Agata,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+561,ALUNO-561,2021,3,10.0,1.1,4.0,7.5,6.9,4.9,Quartzo,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+562,Aluno-562,2024,0,5.0,9.83333333333333,7.83333333333333,8.135,7.34375,7.25,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+835,Aluno-835,2023,0,5.0,8.5,8.7,7.52,7.34375,7.835,Topázio,Deterioração gradual,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+746,Aluno-746,2024,0,10.0,7.4305555555,8.0,7.51,7.34375,7.33,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1026,Aluno-1026,2023,3,5.0,9.8,3.2,7.52,7.34375,7.06,Agata,Queda recente de aprendizado,IPP,Baixa persistência,Trabalhar persistência com acompanhamento individual e metas de continuidade
+480,Aluno-480,2024,0,5.0,8.0714285715,5.0,7.51,7.34375,7.443333333,Ametista,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+143,Aluno-143,2023,2,5.0,9.6,6.5,2.52,7.34375,8.3375,Ametista,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+1174,ALUNO-1174,2022,3,10.0,5.36684782608695,5.87777777777777,5.0,6.5625,5.22221333333333,Quartzo,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+864,Aluno-864,2023,0,5.0,7.6,6.3,8.14,7.34375,8.5,Ametista,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+1321,Aluno-1321,2024,0,5.0,8.875,8.75,6.885,7.34375,5.915,Ametista,Deterioração gradual,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+797,Aluno-797,2024,3,5.0,4.840909091,7.25,7.51,7.34375,6.723333333,Agata,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+961,ALUNO-961,2022,1,10.0,9.01234567901234,4.5,5.625,6.45833333333333,8.0,Ametista,Risco estrutural,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+312,ALUNO-312,2021,2,10.0,9.6,7.8,4.4,8.8,8.8,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+952,Aluno-952,2023,2,10.0,9.2,9.0,3.77,7.34375,8.425,Topázio,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+581,Aluno-581,2023,0,5.0,9.8,7.9,7.52,7.34375,7.393333333,Ametista,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+15,Aluno-15,2022,0,5.0,10.0,7.3,7.5,7.34375,7.292,Ametista,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+812,Aluno-812,2023,0,5.0,9.1,5.8,7.52,7.34375,8.33,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+932,ALUNO-932,2021,3,5.0,5.8,6.4,7.5,7.1,6.9,Ametista,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+1081,Aluno-1081,2024,0,5.0,9.52380952366667,8.83333333333333,5.005,7.34375,8.95,Topázio,Deterioração gradual,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+450,Aluno-450,2023,2,5.0,8.4,5.4,2.52,7.34375,7.9175,Agata,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+420,Aluno-420,2023,2,5.0,9.3,5.3,2.52,7.34375,7.96,Ametista,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+27,Aluno-27,2023,0,5.0,7.7,6.9,6.89,7.34375,8.8825,Ametista,Deterioração gradual,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+585,ALUNO-585,2021,3,2.5,1.3,0.4,4.4,6.6,5.3,Quartzo,Queda recente de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+817,Aluno-817,2023,0,2.5,8.8,5.4,6.89,7.34375,7.89,Ametista,Deterioração gradual,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+482,ALUNO-482,2022,0,5.0,10.0,7.66666666666666,7.5,8.59375,9.125005,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+468,ALUNO-468,2021,3,5.0,6.3,3.6,7.5,7.7,7.0,Ágata,Queda recente de aprendizado,IPP,Baixa persistência,Trabalhar persistência com acompanhamento individual e metas de continuidade
+1205,Aluno-1205,2023,0,10.0,9.2,5.0,6.26,7.34375,7.085,Agata,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+914,ALUNO-914,2022,1,5.0,6.74620132953466,6.58333333333333,7.5,6.25,7.50000333333333,Ágata,Risco estrutural,IPP,Baixa persistência,Trabalhar persistência com acompanhamento individual e metas de continuidade
+339,Aluno-339,2023,0,10.0,8.9,7.1,7.52,7.34375,8.255,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1223,ALUNO-1223,2022,3,5.0,6.86208236208236,5.94444444444444,7.5,7.03125,5.62499,Ágata,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+1195,ALUNO-1195,2021,0,10.0,8.6,7.4,7.5,7.9,8.3,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+856,Aluno-856,2023,0,5.0,9.6,7.3,7.52,7.34375,8.255,Ametista,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+799,Aluno-799,2024,0,5.0,9.090909091,5.25,7.51,7.34375,7.5,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+137,Aluno-137,2024,2,5.0,7.582972583,6.83333333333333,5.005,7.34375,6.276666667,Agata,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+286,Aluno-286,2023,2,5.0,7.5,4.7,5.0,7.34375,7.3375,Quartzo,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+1344,Aluno-1344,2024,0,2.5,10.0,10.0,7.51,7.34375,9.425,Topázio,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+923,ALUNO-923,2021,3,10.0,8.3,3.9,5.0,6.6,5.0,Ágata,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+449,Aluno-449,2023,0,10.0,7.2,7.0,7.52,7.34375,6.8425,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+35,Aluno-35,2022,0,5.0,9.6,8.5,9.4,7.34375,10.0,Topázio,Deterioração gradual,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+318,Aluno-318,2023,0,5.0,8.1,4.9,6.26,7.34375,7.71,Agata,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+1034,Aluno-1034,2024,0,5.0,8.0833333335,7.5,7.51,7.34375,8.223333333,Topázio,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+145,Aluno-145,2022,3,10.0,6.3,5.2,8.1,7.34375,7.25,Quartzo,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+250,Aluno-250,2024,0,10.0,9.62962962966667,9.16666666666667,6.88,7.34375,8.95,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+513,ALUNO-513,2022,0,5.0,9.2330779054917,8.5,7.5,6.5625,8.83334,Topázio,Deterioração gradual,IPP,Baixa persistência,Trabalhar persistência com acompanhamento individual e metas de continuidade
+879,Aluno-879,2024,0,5.0,9.090909091,8.5,6.26,7.34375,8.67,Topázio,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+686,Aluno-686,2024,0,5.0,8.7857142855,7.25,6.885,7.34375,7.503333333,Topázio,Deterioração gradual,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+435,ALUNO-435,2021,3,5.0,4.7,3.0,0.0,7.5,3.5,Quartzo,Queda recente de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+394,ALUNO-394,2022,2,5.0,8.8952922077922,7.26666666666666,5.0,7.65625,7.7916675,Ametista,Falha de aprendizado,IPP,Baixa persistência,Trabalhar persistência com acompanhamento individual e metas de continuidade
+644,ALUNO-644,2022,0,10.0,8.3107389686337,8.11111111111111,6.25,8.90625,8.6250025,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+147,Aluno-147,2023,3,10.0,7.0,4.5,5.63,7.34375,7.46,Quartzo,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+242,ALUNO-242,2022,1,5.0,8.3259011519881,3.33333333333333,6.875,6.45833333333333,6.94444333333333,Ágata,Risco estrutural,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+848,ALUNO-848,2022,3,5.0,7.1875,3.91666666666666,7.5,7.34375,5.3749875,Ágata,Queda recente de aprendizado,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+1112,ALUNO-1112,2021,3,10.0,7.2,6.5,6.3,7.8,6.3,Ametista,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+231,Aluno-231,2022,3,10.0,7.4,3.8,7.5,7.34375,5.333,Agata,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+444,ALUNO-444,2022,0,5.0,9.3422519509476,5.93333333333333,7.5,6.45833333333333,7.66667,Ametista,Deterioração gradual,IPP,Baixa persistência,Trabalhar persistência com acompanhamento individual e metas de continuidade
+580,Aluno-580,2023,0,5.0,9.8,9.0,7.52,7.34375,8.67,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+696,Aluno-696,2024,0,10.0,7.845238095,5.25,7.51,7.34375,8.0,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1009,Aluno-1009,2024,2,10.0,6.8863636365,7.5,2.51,7.34375,6.553333333,Agata,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+713,Aluno-713,2023,2,5.0,9.6,7.5,3.77,7.34375,8.166666667,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1094,Aluno-1094,2024,2,10.0,9.52380952366667,7.33333333333333,2.51,7.34375,8.1675,Topázio,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1349,Aluno-1349,2024,0,5.0,8.388888889,8.5,7.51,7.34375,7.915,Ametista,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+60,ALUNO-60,2022,3,5.0,4.12990196078431,4.04444444444444,5.625,7.96875,7.27777333333333,Quartzo,Queda recente de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+1039,Aluno-1039,2024,0,5.0,9.722222222,7.25,7.51,7.34375,6.77,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+733,Aluno-733,2022,2,10.0,8.5,5.1,5.6,7.34375,6.917,Agata,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+486,ALUNO-486,2022,1,5.0,4.77532952980523,6.0,5.625,5.3125,3.7500075,Quartzo,Risco estrutural,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+190,Aluno-190,2023,2,10.0,9.5,5.7,2.52,7.34375,7.9575,Agata,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+996,ALUNO-996,2021,3,10.0,5.8,5.6,7.5,7.3,6.2,Ametista,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+950,Aluno-950,2024,0,10.0,9.023809524,7.0,7.51,7.34375,8.0,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+324,Aluno-324,2023,2,10.0,9.0,8.4,2.52,7.34375,7.5875,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+526,Aluno-526,2022,0,5.0,9.9,8.0,7.5,7.34375,8.167,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1295,Aluno-1295,2024,2,5.0,9.5227272725,7.5,2.51,7.34375,8.28,Topázio,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+1114,Aluno-1114,2023,2,10.0,9.8,4.9,2.52,7.34375,8.56,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1117,ALUNO-1117,2022,1,10.0,5.925,7.58333333333333,7.5,5.625,7.08333,Ágata,Risco estrutural,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+990,Aluno-990,2024,0,5.0,7.5,8.0,7.51,7.34375,8.336666667,Ametista,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+861,ALUNO-861,2021,0,5.0,8.3,7.7,7.5,7.7,7.9,Ametista,Deterioração gradual,IPP,Baixa persistência,Trabalhar persistência com acompanhamento individual e metas de continuidade
+824,ALUNO-824,2021,0,5.0,10.0,4.9,7.5,8.1,9.1,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+229,ALUNO-229,2022,1,5.0,5.10897435897436,8.0,5.0,4.375,5.83333,Ágata,Risco estrutural,IPP,Baixa persistência,Trabalhar persistência com acompanhamento individual e metas de continuidade
+1335,Aluno-1335,2024,0,5.0,9.75,8.75,7.51,7.34375,7.665,Topázio,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+1043,Aluno-1043,2024,0,5.0,7.994071146,8.25,7.51,7.34375,6.553333333,Ametista,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+671,ALUNO-671,2021,0,5.0,9.6,7.4,6.3,8.3,8.5,Ametista,Deterioração gradual,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+480,Aluno-480,2023,0,10.0,9.7,7.9,7.52,7.34375,8.336666667,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1107,ALUNO-1107,2022,3,5.0,6.07500954927425,2.72222222222222,7.5,7.8125,7.583335,Quartzo,Queda recente de aprendizado,IPP,Baixa persistência,Trabalhar persistência com acompanhamento individual e metas de continuidade
+693,ALUNO-693,2022,1,5.0,8.62456140350877,7.41666666666666,7.5,6.04166666666666,7.61111,Ametista,Risco estrutural,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+397,Aluno-397,2024,2,5.0,7.88529294266667,5.66666666666667,5.63,7.34375,7.398,Agata,Falha de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+955,Aluno-955,2024,0,5.0,6.904761905,5.75,7.51,7.34375,8.255,Agata,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+574,ALUNO-574,2021,0,5.0,8.6,5.7,7.5,8.0,7.8,Ametista,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+695,ALUNO-695,2022,1,5.0,9.88095238095238,7.25,7.5,5.0,7.22222333333333,Ametista,Risco estrutural,IPP,Baixa persistência,Trabalhar persistência com acompanhamento individual e metas de continuidade
+974,Aluno-974,2023,2,5.0,9.1,8.8,3.77,7.34375,9.34,Topázio,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+721,ALUNO-721,2021,3,5.0,3.8,2.5,5.6,6.7,5.5,Quartzo,Queda recente de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+832,Aluno-832,2023,0,10.0,9.5,8.5,7.52,7.34375,8.283333333,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1233,ALUNO-1233,2022,3,10.0,4.77427902979373,6.85555555555555,6.875,7.96875,6.11110999999999,Ágata,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+740,Aluno-740,2023,0,5.0,8.7,9.1,7.52,7.34375,8.925,Ametista,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+377,ALUNO-377,2021,3,10.0,7.5,4.2,5.6,7.5,7.9,Ametista,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+884,Aluno-884,2024,0,10.0,8.818181818,8.75,6.26,7.34375,8.223333333,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+331,Aluno-331,2023,2,10.0,8.6,5.2,2.52,7.34375,6.7975,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1210,Aluno-1210,2023,2,5.0,9.4,4.7,5.0,7.34375,8.09,Ametista,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+939,Aluno-939,2023,0,5.0,10.0,5.4,7.52,7.34375,10.01,Ametista,Deterioração gradual,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+606,Aluno-606,2022,3,5.0,9.0,1.8,7.5,7.34375,6.111,Agata,Queda recente de aprendizado,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+393,ALUNO-393,2021,0,10.0,6.7,7.4,7.5,8.1,7.4,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1056,Aluno-1056,2024,0,10.0,9.2857142855,8.25,7.51,7.34375,8.335,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+157,Aluno-157,2022,0,5.0,10.0,7.7,6.3,7.34375,8.292,Topázio,Deterioração gradual,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+389,ALUNO-389,2021,0,5.0,8.6,9.0,6.3,9.4,8.9,Ametista,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+267,ALUNO-267,2021,0,5.0,8.9,8.2,6.3,8.3,8.6,Ametista,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+1037,Aluno-1037,2023,0,10.0,8.4,6.7,7.52,7.34375,8.17,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1035,Aluno-1035,2023,0,5.0,8.3,5.8,7.52,7.34375,7.78,Agata,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+193,ALUNO-193,2022,2,5.0,9.03869047619047,5.56666666666666,5.625,7.65625,7.7499975,Ametista,Falha de aprendizado,IPP,Baixa persistência,Trabalhar persistência com acompanhamento individual e metas de continuidade
+1176,ALUNO-1176,2021,0,10.0,6.9,8.5,8.1,8.4,9.3,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+639,Aluno-639,2024,3,10.0,5.27819548866667,3.83333333333333,2.51,7.34375,6.1625,Quartzo,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+599,Aluno-599,2024,0,10.0,8.60784313733333,7.66666666666667,9.375,7.34375,7.28,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+501,Aluno-501,2024,0,5.0,7.9949874685,8.75,7.51,7.34375,8.17,Topázio,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+1185,Aluno-1185,2023,2,5.0,9.1,7.5,5.0,7.34375,8.3775,Topázio,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+630,Aluno-630,2023,2,10.0,8.6,5.7,3.77,7.34375,8.673333333,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+389,Aluno-389,2023,2,10.0,8.2,8.2,2.52,7.34375,8.95,Agata,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1104,Aluno-1104,2023,2,5.0,10.0,6.4,2.52,7.34375,9.063333333,Ametista,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+478,Aluno-478,2023,2,5.0,7.3,4.4,2.52,7.34375,7.2975,Agata,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+34,ALUNO-34,2021,3,5.0,2.9,5.5,7.5,7.7,8.7,Ágata,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+1338,ALUNO-1338,2022,1,10.0,8.48012526244617,5.16666666666666,7.5,6.45833333333333,7.49999666666666,Ametista,Risco estrutural,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+509,Aluno-509,2023,2,5.0,8.1,8.6,2.52,7.34375,8.84,Ametista,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+704,Aluno-704,2022,2,10.0,8.6,7.2,5.0,7.34375,6.583,Agata,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+487,ALUNO-487,2021,0,10.0,6.7,7.1,7.5,7.8,8.3,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+761,Aluno-761,2024,0,5.0,8.8636363635,7.25,6.26,7.34375,8.003333333,Topázio,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+1072,Aluno-1072,2023,2,5.0,8.6,6.7,5.0,7.34375,8.7125,Topázio,Falha de aprendizado,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+1099,ALUNO-1099,2022,1,10.0,5.46296296296296,7.75,6.875,6.45833333333333,7.38889,Ametista,Risco estrutural,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+315,ALUNO-315,2021,0,10.0,9.2,8.2,7.5,8.6,9.8,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+111,Aluno-111,2022,0,5.0,9.4,8.0,8.1,7.34375,8.667,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+892,ALUNO-892,2021,0,5.0,9.6,6.9,5.6,8.3,7.6,Ametista,Deterioração gradual,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+924,Aluno-924,2023,3,5.0,5.6,5.0,7.52,7.34375,5.93,Agata,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+399,Aluno-399,2023,2,5.0,8.2,4.7,2.52,7.34375,8.165,Ametista,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+511,Aluno-511,2022,0,5.0,10.0,5.3,7.5,7.34375,7.056,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+503,ALUNO-503,2022,1,5.0,10.0,8.16666666666666,7.5,6.04166666666666,7.44444333333333,Ametista,Risco estrutural,IPP,Baixa persistência,Trabalhar persistência com acompanhamento individual e metas de continuidade
+544,ALUNO-544,2021,0,5.0,7.9,6.7,6.3,8.1,7.7,Ametista,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+500,Aluno-500,2024,2,10.0,10.0,6.66666666666667,2.51,7.34375,8.3775,Topázio,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1077,Aluno-1077,2023,2,10.0,9.7,7.3,2.52,7.34375,8.4225,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+53,Aluno-53,2023,0,5.0,9.1,7.7,5.63,7.34375,7.5875,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+164,Aluno-164,2024,3,5.0,8.08479532166667,5.66666666666667,6.26,7.34375,6.886666667,Agata,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+84,ALUNO-84,2021,0,10.0,10.0,6.8,7.5,7.5,8.3,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+680,Aluno-680,2022,0,10.0,8.8,7.4,7.5,7.34375,7.75,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1163,Aluno-1163,2023,0,5.0,9.3,7.2,7.52,7.34375,7.75,Ametista,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+131,Aluno-131,2023,3,10.0,7.8,2.2,5.0,7.34375,6.8,Quartzo,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+805,Aluno-805,2023,0,5.0,9.1,6.8,7.52,7.34375,7.175,Agata,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+414,Aluno-414,2023,0,5.0,9.5,6.5,7.52,7.34375,7.585,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+719,Aluno-719,2022,3,10.0,4.6,4.2,7.5,7.34375,6.083,Quartzo,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+880,Aluno-880,2023,2,5.0,9.4,6.3,2.52,7.34375,8.585,Agata,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+782,Aluno-782,2024,0,5.0,7.857142857,7.75,7.51,7.34375,8.085,Topázio,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+391,Aluno-391,2023,2,5.0,7.5,3.5,2.52,7.34375,7.585,Agata,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+784,ALUNO-784,2022,2,5.0,9.73684210526315,7.27777777777777,4.375,8.4375,8.291665,Topázio,Falha de aprendizado,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+1149,Aluno-1149,2024,0,5.0,10.0,6.0,10.0,7.34375,8.706,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+95,Aluno-95,2022,3,5.0,6.6,4.8,7.5,7.34375,6.292,Agata,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+418,Aluno-418,2023,2,5.0,10.0,8.1,2.52,7.34375,8.045,Topázio,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+45,ALUNO-45,2022,1,5.0,9.16666666666666,5.0,6.25,6.25,6.77777333333333,Ágata,Risco estrutural,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+736,Aluno-736,2023,0,5.0,9.5,6.7,6.27,7.34375,8.11,Ametista,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+705,Aluno-705,2024,3,5.0,6.4285714285,3.5,5.005,7.34375,4.226666667,Quartzo,Queda recente de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+600,Aluno-600,2023,0,5.0,8.4,7.2,7.52,7.34375,8.056666667,Ametista,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+883,Aluno-883,2023,0,10.0,9.7,8.4,6.89,7.34375,8.17,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+780,Aluno-780,2023,2,5.0,8.8,8.3,3.14,7.34375,8.675,Ametista,Falha de aprendizado,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+742,ALUNO-742,2022,0,10.0,7.60957792207792,5.68888888888888,6.875,7.34375,7.6666675,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1214,Aluno-1214,2023,0,5.0,9.8,7.4,6.89,7.34375,7.6725,Topázio,Deterioração gradual,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+659,ALUNO-659,2021,3,10.0,3.6,1.3,7.5,7.8,5.1,Quartzo,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+636,Aluno-636,2024,3,5.0,4.90430622,5.25,7.51,7.34375,5.553333333,Agata,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+1140,Aluno-1140,2024,0,10.0,6.1124401915,7.0,7.51,7.34375,7.39,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+899,Aluno-899,2023,2,10.0,9.8,9.5,3.77,7.34375,9.34,Topázio,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+329,Aluno-329,2022,3,10.0,6.9,5.0,4.4,7.34375,5.778,Agata,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+225,ALUNO-225,2022,2,10.0,7.08518503555268,7.38888888888888,5.0,8.125,6.6666675,Ágata,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+605,Aluno-605,2024,3,5.0,6.19444444433333,2.66666666666667,6.885,7.34375,5.534,Agata,Queda recente de aprendizado,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+1014,ALUNO-1014,2022,1,5.0,7.42592592592592,8.83333333333333,7.5,6.04166666666666,7.27777666666666,Ametista,Risco estrutural,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+422,ALUNO-422,2022,1,5.0,9.18837803320562,7.08333333333333,7.5,5.625,8.083335,Ametista,Risco estrutural,IPP,Baixa persistência,Trabalhar persistência com acompanhamento individual e metas de continuidade
+1023,Aluno-1023,2023,0,5.0,10.0,9.1,6.27,7.34375,9.06,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+909,ALUNO-909,2021,3,5.0,5.4,3.1,7.5,7.3,7.2,Ágata,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+117,Aluno-117,2022,3,10.0,6.3,6.1,6.9,7.34375,7.417,Agata,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1275,ALUNO-1275,2021,0,10.0,9.6,7.8,7.5,8.3,9.8,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+538,Aluno-538,2024,3,5.0,7.66880341866667,6.16666666666667,7.51,7.34375,5.292,Agata,Queda recente de aprendizado,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+822,ALUNO-822,2022,0,10.0,9.59523809523809,8.33333333333333,5.625,6.25,7.77778,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+859,Aluno-859,2023,0,5.0,9.2,7.3,7.52,7.34375,10.01,Topázio,Deterioração gradual,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+457,Aluno-457,2022,0,10.0,8.8,8.5,7.5,7.34375,7.667,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+964,Aluno-964,2024,0,5.0,8.333333333,7.25,7.51,7.34375,7.1675,Ametista,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+221,ALUNO-221,2022,3,5.0,3.61370137299771,2.66666666666666,7.5,6.09375,4.7083275,Quartzo,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+826,Aluno-826,2022,0,5.0,9.6,5.4,7.5,7.34375,7.5,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+449,ALUNO-449,2021,0,10.0,7.5,4.9,7.5,8.5,8.6,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1170,ALUNO-1170,2021,3,10.0,1.3,0.0,8.1,7.3,5.2,Quartzo,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+115,Aluno-115,2024,3,5.0,4.164756812,4.16666666666667,6.26,7.34375,5.726,Quartzo,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+686,ALUNO-686,2022,1,5.0,7.34962406015037,6.58333333333333,6.875,5.625,7.333335,Ágata,Risco estrutural,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+45,Aluno-45,2024,0,10.0,9.619047619,8.0,9.38,7.34375,8.283333333,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1102,Aluno-1102,2024,0,10.0,9.39047619033333,9.33333333333333,8.13,7.34375,7.07,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1070,Aluno-1070,2024,3,5.0,9.3073593075,2.25,5.635,7.34375,6.6225,Agata,Queda recente de aprendizado,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+767,Aluno-767,2022,0,10.0,9.0,7.0,7.5,7.34375,7.583,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1287,ALUNO-1287,2022,1,5.0,8.87056471764118,5.16666666666666,5.0,5.41666666666666,6.55555333333333,Ágata,Risco estrutural,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+747,Aluno-747,2023,2,10.0,8.0,3.1,3.14,7.34375,6.94,Agata,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+376,Aluno-376,2023,2,5.0,9.6,5.9,2.52,7.34375,8.226666667,Ametista,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+298,Aluno-298,2023,2,2.5,8.6,5.5,2.52,7.34375,7.7525,Agata,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+739,ALUNO-739,2022,0,5.0,8.03529686769518,7.38888888888888,9.375,8.59375,8.37500749999999,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+974,Aluno-974,2024,0,10.0,9.2826086955,6.5,7.51,7.34375,7.5,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1068,Aluno-1068,2023,0,5.0,9.3,9.0,6.89,7.34375,9.283333333,Topázio,Deterioração gradual,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+762,Aluno-762,2023,2,5.0,9.1,5.8,3.14,7.34375,7.67,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+579,ALUNO-579,2021,3,10.0,6.3,5.4,7.5,7.5,8.2,Ametista,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1106,ALUNO-1106,2022,1,5.0,8.01572897761645,5.58333333333333,6.25,5.0,6.55555,Ágata,Risco estrutural,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+903,Aluno-903,2024,0,10.0,9.7727272725,5.0,7.505,7.34375,7.946666667,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+574,ALUNO-574,2022,0,5.0,9.47794117647058,6.72222222222222,7.5,8.4375,9.50000333333333,Topázio,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+1306,Aluno-1306,2024,0,5.0,10.0,9.75,8.135,7.34375,7.946666667,Topázio,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+829,Aluno-829,2023,2,10.0,9.4,8.4,3.14,7.34375,9.23,Topázio,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+464,Aluno-464,2022,0,10.0,8.0,4.8,7.5,7.34375,7.722,Agata,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+624,ALUNO-624,2021,3,5.0,5.0,5.1,7.5,7.1,6.5,Ágata,Queda recente de aprendizado,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+941,Aluno-941,2024,2,10.0,9.25,8.75,5.01,7.34375,7.665,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+356,Aluno-356,2024,3,10.0,6.65634674933333,5.33333333333333,5.635,7.34375,6.5375,Agata,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+672,Aluno-672,2022,0,5.0,8.5,8.8,8.1,7.34375,6.75,Ametista,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+1150,Aluno-1150,2024,0,2.5,6.48148148166667,6.83333333333333,7.51,7.34375,7.946666667,Ametista,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+286,Aluno-286,2022,3,5.0,5.8,3.0,6.3,7.34375,5.625,Quartzo,Queda recente de aprendizado,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+417,Aluno-417,2024,0,10.0,8.40155945433333,8.83333333333333,7.51,7.34375,8.2925,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+701,Aluno-701,2023,2,2.5,9.9,7.2,3.77,7.34375,7.68,Ametista,Falha de aprendizado,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+1148,Aluno-1148,2023,2,5.0,8.6,5.7,3.77,7.34375,7.2125,Ametista,Falha de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+534,Aluno-534,2023,2,5.0,8.1,5.4,2.52,7.34375,7.92,Quartzo,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+664,ALUNO-664,2021,0,5.0,8.6,9.3,7.5,8.8,9.9,Topázio,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+670,ALUNO-670,2021,0,5.0,7.5,7.9,7.5,9.2,9.2,Ametista,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+967,Aluno-967,2023,0,5.0,8.0,6.5,7.52,7.34375,7.35,Ametista,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+414,Aluno-414,2022,0,5.0,9.3,5.9,7.5,7.34375,7.667,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+279,Aluno-279,2023,0,5.0,10.0,8.9,6.27,7.34375,9.2125,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+282,ALUNO-282,2022,0,5.0,7.86141304347826,8.64444444444444,6.875,8.59375,9.11111666666666,Topázio,Deterioração gradual,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+367,ALUNO-367,2021,3,10.0,4.4,4.8,7.5,7.0,6.5,Ágata,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+181,Aluno-181,2023,2,5.0,8.3,6.8,2.52,7.34375,8.2525,Ametista,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+246,Aluno-246,2024,3,10.0,0.0,0.0,6.57,7.34375,7.5,Quartzo,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1184,Aluno-1184,2024,0,5.0,8.65800865766667,7.66666666666667,7.51,7.34375,7.5,Ametista,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+1266,ALUNO-1266,2021,3,5.0,3.3,1.8,5.6,6.9,2.8,Quartzo,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+653,Aluno-653,2023,0,5.0,9.8,7.9,6.27,7.34375,9.06,Ametista,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+916,ALUNO-916,2021,0,10.0,9.7,7.8,7.5,9.2,9.3,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1289,ALUNO-1289,2021,3,5.0,7.9,4.8,7.5,7.9,7.1,Ágata,Queda recente de aprendizado,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+1300,ALUNO-1300,2022,1,5.0,8.01587301587301,8.83333333333333,7.5,6.04166666666666,8.27778,Ametista,Risco estrutural,IPP,Baixa persistência,Trabalhar persistência com acompanhamento individual e metas de continuidade
+766,ALUNO-766,2022,3,5.0,4.61728169528681,4.76666666666666,7.5,6.25,5.99999333333333,Quartzo,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+1003,Aluno-1003,2024,0,10.0,8.6944444445,8.25,7.51,7.34375,7.5,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+189,Aluno-189,2023,2,5.0,9.4,6.5,2.52,7.34375,8.3775,Ametista,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+1292,ALUNO-1292,2022,0,10.0,9.37363834422658,7.15555555555555,8.75,8.59375,8.5000025,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+813,ALUNO-813,2021,3,10.0,7.5,3.9,7.5,7.7,7.8,Ametista,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+756,Aluno-756,2024,0,5.0,8.75,5.5,7.51,7.34375,7.24,Ametista,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+1038,Aluno-1038,2023,0,10.0,9.3,6.5,7.52,7.34375,8.17,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+889,ALUNO-889,2022,0,5.0,8.51386673755094,6.55555555555555,7.5,7.34375,7.4999975,Ametista,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+949,Aluno-949,2024,0,10.0,8.7857142855,6.5,7.51,7.34375,6.495,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+779,Aluno-779,2022,3,10.0,5.0,2.6,7.5,7.34375,7.083,Quartzo,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+464,Aluno-464,2023,2,5.0,7.7,3.0,2.52,7.34375,7.38,Agata,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+167,Aluno-167,2024,0,5.0,9.47368421066667,8.16666666666667,6.26,7.34375,8.334,Topázio,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+769,Aluno-769,2023,2,5.0,9.3,8.0,3.77,7.34375,8.675,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+388,Aluno-388,2023,3,5.0,7.4,4.2,5.63,7.34375,7.835,Quartzo,Queda recente de aprendizado,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+544,ALUNO-544,2022,3,5.0,6.91687252964426,5.83333333333333,6.875,7.34375,6.11110333333333,Ágata,Queda recente de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+126,ALUNO-126,2022,1,5.0,8.46828609986504,7.33333333333333,7.5,4.0625,7.5,Ametista,Risco estrutural,IPP,Baixa persistência,Trabalhar persistência com acompanhamento individual e metas de continuidade
+502,Aluno-502,2023,0,5.0,9.8,8.0,7.52,7.34375,8.95,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+153,ALUNO-153,2022,0,10.0,9.09722222222222,8.7,8.125,8.75,9.2916725,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+698,Aluno-698,2024,3,10.0,8.3214285715,4.5,6.88,7.34375,7.273333333,Ametista,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+548,Aluno-548,2024,3,5.0,7.60042735066667,6.66666666666667,7.51,7.34375,5.626,Ametista,Queda recente de aprendizado,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+858,ALUNO-858,2021,0,5.0,10.0,6.2,7.5,7.7,9.4,Topázio,Deterioração gradual,IPP,Baixa persistência,Trabalhar persistência com acompanhamento individual e metas de continuidade
+531,Aluno-531,2023,2,5.0,10.0,7.7,2.52,7.34375,8.59,Topázio,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+785,Aluno-785,2023,0,5.0,8.5,8.8,7.52,7.34375,8.67,Topázio,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+1294,Aluno-1294,2024,0,10.0,10.0,7.75,7.51,7.34375,7.553333333,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+133,ALUNO-133,2021,0,5.0,9.6,7.1,7.5,7.7,8.4,Ametista,Deterioração gradual,IPP,Baixa persistência,Trabalhar persistência com acompanhamento individual e metas de continuidade
+120,Aluno-120,2022,3,5.0,5.9,6.2,7.5,7.34375,7.667,Agata,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+112,Aluno-112,2023,2,5.0,8.1,7.4,5.0,7.34375,7.9225,Ametista,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+394,ALUNO-394,2021,3,5.0,5.3,5.2,6.9,7.2,6.7,Ágata,Queda recente de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+994,ALUNO-994,2021,0,10.0,7.5,7.4,7.5,7.5,8.3,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+602,Aluno-602,2023,0,5.0,9.6,8.1,7.52,7.34375,9.51,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+208,ALUNO-208,2021,3,10.0,6.3,4.5,7.5,7.5,8.0,Ágata,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+373,Aluno-373,2023,2,5.0,9.7,8.4,2.52,7.34375,7.84,Agata,Falha de aprendizado,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+451,Aluno-451,2022,3,5.0,6.0,6.1,6.3,7.34375,6.889,Agata,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+374,Aluno-374,2022,0,10.0,9.8,6.9,7.5,7.34375,7.944,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+672,Aluno-672,2023,2,5.0,9.5,6.4,2.52,7.34375,6.43,Agata,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+1202,Aluno-1202,2023,3,5.0,7.6,3.3,7.52,7.34375,6.67,Agata,Queda recente de aprendizado,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+827,Aluno-827,2022,0,5.0,7.0,7.6,7.5,7.34375,8.667,Ametista,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+614,Aluno-614,2024,0,5.0,9.7,6.83333333333333,7.51,7.34375,7.603333333,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+213,ALUNO-213,2021,0,5.0,9.4,7.5,7.5,8.8,8.9,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+644,ALUNO-644,2021,0,5.0,10.0,9.4,5.0,8.5,9.7,Topázio,Deterioração gradual,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+947,ALUNO-947,2022,1,5.0,5.57280883367839,4.5,7.5,5.625,5.833325,Quartzo,Risco estrutural,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+340,ALUNO-340,2021,0,5.0,8.1,7.0,7.5,8.3,9.1,Ametista,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+1117,Aluno-1117,2024,0,10.0,8.31481481466667,5.66666666666667,7.51,7.34375,6.833333333,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+526,Aluno-526,2023,2,5.0,9.8,8.8,5.0,7.34375,7.7525,Topázio,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+59,Aluno-59,2022,0,10.0,9.3,7.2,7.5,7.34375,7.917,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+893,Aluno-893,2023,0,10.0,10.0,9.3,7.52,7.34375,10.01,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+455,ALUNO-455,2022,0,10.0,9.55555555555555,8.08333333333333,7.5,6.66666666666666,7.77778333333333,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+396,ALUNO-396,2022,3,5.0,6.08381667884545,4.98888888888888,7.5,7.1875,6.33332999999999,Ágata,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+840,ALUNO-840,2022,1,5.0,8.48583877995642,7.25,6.875,5.0,7.083325,Ametista,Risco estrutural,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+1203,Aluno-1203,2024,0,5.0,9.649122807,9.0,7.51,7.34375,8.572,Topázio,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+1046,Aluno-1046,2023,2,5.0,8.5,6.3,3.77,7.34375,8.223333333,Agata,Falha de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+542,Aluno-542,2022,0,5.0,9.8,6.5,6.3,7.34375,7.417,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+735,Aluno-735,2023,0,10.0,9.0,8.1,7.52,7.34375,8.393333333,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+642,ALUNO-642,2022,2,5.0,9.36531734132933,9.08333333333333,5.0,6.45833333333333,8.05555333333333,Ágata,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+436,Aluno-436,2023,3,5.0,4.7,3.4,2.52,7.34375,7.613333333,Quartzo,Queda recente de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+407,ALUNO-407,2021,0,10.0,8.9,6.6,7.5,9.2,9.4,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1292,Aluno-1292,2024,0,10.0,4.7727272725,8.25,7.51,7.34375,7.893333333,Agata,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+914,Aluno-914,2023,0,5.0,9.2,8.7,7.52,7.34375,8.67,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+173,ALUNO-173,2021,3,5.0,6.7,4.9,5.0,7.7,7.5,Ágata,Queda recente de aprendizado,IPP,Baixa persistência,Trabalhar persistência com acompanhamento individual e metas de continuidade
+85,Aluno-85,2024,2,5.0,8.668046929,7.66666666666667,3.755,7.34375,6.993333333,Agata,Falha de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+545,Aluno-545,2022,3,5.0,6.6,5.5,7.5,7.34375,7.5,Agata,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+111,ALUNO-111,2021,0,5.0,8.1,6.0,7.5,8.4,7.4,Ametista,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+361,Aluno-361,2022,0,10.0,9.2,5.0,6.3,7.34375,6.778,Agata,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+698,ALUNO-698,2021,0,5.0,8.1,7.2,5.6,8.1,7.9,Ametista,Deterioração gradual,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+1071,ALUNO-1071,2022,1,5.0,5.41798941798941,3.58333333333333,5.625,6.04166666666666,6.66666333333333,Quartzo,Risco estrutural,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+919,Aluno-919,2024,3,5.0,4.692513369,5.25,6.255,7.34375,6.49,Quartzo,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+283,Aluno-283,2024,0,5.0,9.761904762,8.0,6.885,7.34375,7.736,Ametista,Deterioração gradual,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+411,Aluno-411,2023,0,10.0,9.0,6.6,7.52,7.34375,7.5425,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+350,Aluno-350,2023,2,10.0,9.7,9.0,2.52,7.34375,7.92,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1092,Aluno-1092,2023,2,10.0,9.8,6.9,2.52,7.34375,8.2975,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1023,ALUNO-1023,2022,1,5.0,7.26602564102564,5.41666666666666,7.5,5.625,7.916665,Ágata,Risco estrutural,IPP,Baixa persistência,Trabalhar persistência com acompanhamento individual e metas de continuidade
+850,ALUNO-850,2021,0,10.0,7.5,6.6,7.5,8.1,9.3,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1095,ALUNO-1095,2021,0,10.0,9.2,8.9,8.1,9.2,9.7,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+300,Aluno-300,2022,3,10.0,6.9,3.1,6.3,7.34375,5.875,Quartzo,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+229,Aluno-229,2023,2,5.0,9.8,7.8,2.52,7.34375,8.42,Topázio,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+769,Aluno-769,2024,0,5.0,5.9523809525,6.0,7.51,7.34375,8.33,Ametista,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+640,Aluno-640,2023,0,5.0,7.3,4.9,7.52,7.34375,8.446666667,Agata,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+273,Aluno-273,2024,3,5.0,7.323153899,4.5,6.26,7.34375,6.896,Agata,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+1297,Aluno-1297,2024,2,5.0,9.761904762,9.25,2.51,7.34375,6.833333333,Ametista,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+1217,Aluno-1217,2023,2,5.0,7.9,5.9,5.63,7.34375,7.38,Agata,Falha de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+42,ALUNO-42,2022,1,10.0,3.14880952380952,2.5,7.5,0.0,2.50001,Quartzo,Risco estrutural,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+635,ALUNO-635,2021,3,10.0,3.3,4.8,5.0,5.9,4.0,Quartzo,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+868,ALUNO-868,2022,1,10.0,8.88849902534113,6.91666666666666,8.125,5.625,7.916665,Ametista,Risco estrutural,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1244,ALUNO-1244,2021,0,10.0,8.8,5.8,7.5,7.5,7.4,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+118,ALUNO-118,2021,0,10.0,9.6,6.9,7.5,7.5,8.2,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+17,ALUNO-17,2022,1,5.0,6.64786967418546,5.5,7.5,5.9375,7.5,Ágata,Risco estrutural,IPP,Baixa persistência,Trabalhar persistência com acompanhamento individual e metas de continuidade
+1197,Aluno-1197,2023,2,10.0,8.4,7.3,5.0,7.34375,7.215,Agata,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+301,ALUNO-301,2022,0,10.0,7.91967291967291,8.0,7.5,6.875,8.33333666666666,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+558,Aluno-558,2023,2,5.0,9.4,6.0,5.0,7.34375,6.78,Agata,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+458,Aluno-458,2024,3,5.0,3.73968253966667,4.0,6.88,7.34375,6.83,Quartzo,Queda recente de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+700,Aluno-700,2023,0,5.0,9.7,7.8,7.52,7.34375,9.84,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+900,Aluno-900,2023,0,5.0,9.8,7.8,9.38,7.34375,8.67,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+288,ALUNO-288,2021,0,5.0,7.5,7.7,7.5,7.3,8.7,Ametista,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+215,Aluno-215,2022,3,10.0,5.8,7.8,7.5,7.34375,6.542,Ametista,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+33,Aluno-33,2022,3,10.0,4.6,4.8,7.5,7.34375,6.0,Quartzo,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+42,Aluno-42,2024,0,5.0,9.68253968266667,8.16666666666667,5.635,7.34375,7.134,Ametista,Deterioração gradual,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+1278,ALUNO-1278,2022,1,5.0,7.60265700483091,6.0,7.5,5.625,7.05555333333333,Ágata,Risco estrutural,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+398,Aluno-398,2023,2,10.0,8.1,6.5,2.52,7.34375,7.7925,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1330,ALUNO-1330,2022,3,5.0,6.83723410472183,3.77777777777777,6.25,6.875,5.5833225,Quartzo,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1077,Aluno-1077,2024,3,10.0,7.70370370366667,2.0,6.885,7.34375,6.37,Quartzo,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1292,ALUNO-1292,2021,0,10.0,9.7,6.7,7.5,8.8,8.7,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+323,ALUNO-323,2022,1,5.0,9.21781305114638,5.08333333333333,5.0,6.04166666666666,5.83333666666666,Ágata,Risco estrutural,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+817,ALUNO-817,2021,0,10.0,7.5,7.6,7.5,7.9,9.2,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1076,Aluno-1076,2024,0,5.0,7.77703349266667,6.33333333333333,8.125,7.34375,6.5425,Ametista,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+1065,Aluno-1065,2024,0,5.0,8.8152173915,9.25,6.26,7.34375,8.84,Topázio,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+666,Aluno-666,2023,0,5.0,9.1,7.1,7.52,7.34375,9.62,Topázio,Deterioração gradual,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+242,ALUNO-242,2021,3,5.0,5.4,2.9,7.5,7.1,6.8,Ágata,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+912,Aluno-912,2023,0,5.0,9.4,6.3,7.52,7.34375,7.175,Ametista,Deterioração gradual,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+410,Aluno-410,2023,3,5.0,5.8,4.9,7.52,7.34375,6.0425,Agata,Queda recente de aprendizado,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+1170,ALUNO-1170,2022,1,5.0,6.00989187945709,4.75,7.5,5.625,6.833325,Ágata,Risco estrutural,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+814,ALUNO-814,2021,3,5.0,5.0,4.4,7.5,7.9,7.6,Ágata,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+587,Aluno-587,2023,3,5.0,7.0,2.7,7.52,7.34375,6.72,Agata,Queda recente de aprendizado,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+655,Aluno-655,2023,0,5.0,9.9,8.3,7.52,7.34375,8.896666667,Topázio,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+620,Aluno-620,2024,3,5.0,3.98412698433333,2.5,7.51,7.34375,5.886666667,Quartzo,Queda recente de aprendizado,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+754,Aluno-754,2024,3,5.0,6.25,6.25,5.625,7.34375,4.75,Quartzo,Queda recente de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+1159,ALUNO-1159,2022,0,5.0,9.00661079649251,6.84444444444444,6.875,8.125,8.94444666666666,Ametista,Deterioração gradual,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+401,Aluno-401,2022,0,10.0,9.6,4.3,7.5,7.34375,6.722,Agata,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+384,Aluno-384,2022,0,5.0,8.4,8.1,6.3,7.34375,8.0,Ametista,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+965,Aluno-965,2023,3,10.0,8.2,4.7,6.27,7.34375,7.18,Agata,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+855,ALUNO-855,2021,3,5.0,7.1,2.8,7.5,7.9,7.1,Ágata,Queda recente de aprendizado,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+494,Aluno-494,2023,2,5.0,9.0,6.8,2.52,7.34375,8.71,Ametista,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+383,ALUNO-383,2021,3,5.0,5.8,6.3,7.5,7.2,7.8,Ametista,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+1334,Aluno-1334,2024,0,10.0,10.0,9.0,5.625,7.34375,7.75,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+502,ALUNO-502,2022,0,10.0,8.33137408568443,4.41111111111111,9.375,8.125,7.7916625,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1139,Aluno-1139,2024,3,10.0,6.15271512133333,4.66666666666667,7.51,7.34375,7.04,Agata,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+783,ALUNO-783,2021,3,5.0,4.6,3.6,7.5,8.3,8.3,Ágata,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+909,Aluno-909,2024,0,5.0,8.1666666665,8.25,7.51,7.34375,7.5,Ametista,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+1178,Aluno-1178,2024,0,5.0,9.68253968266667,8.33333333333333,6.26,7.34375,8.696,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+433,Aluno-433,2024,3,5.0,8.380952381,4.83333333333333,8.13,7.34375,6.415,Ametista,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+365,Aluno-365,2024,0,10.0,10.0,6.66666666666667,7.51,7.34375,8.202,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1008,Aluno-1008,2024,0,10.0,6.483957219,7.0,7.51,7.34375,7.5,Agata,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1169,Aluno-1169,2023,2,10.0,9.5,6.3,5.0,7.34375,8.0025,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1027,Aluno-1027,2023,0,10.0,9.7,6.0,7.52,7.34375,8.333333333,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+80,Aluno-80,2023,0,5.0,8.4,6.3,6.89,7.34375,7.465,Ametista,Deterioração gradual,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+676,Aluno-676,2022,0,5.0,8.6,9.3,8.1,7.34375,8.167,Ametista,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+1221,ALUNO-1221,2022,0,5.0,9.21143671143671,7.12222222222222,7.5,8.125,7.333335,Ametista,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+639,Aluno-639,2022,3,10.0,7.4,5.5,7.5,7.34375,6.611,Agata,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+175,Aluno-175,2023,2,10.0,9.2,4.8,2.52,7.34375,7.085,Agata,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+971,Aluno-971,2023,2,10.0,6.4,6.9,3.77,7.34375,8.17,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1153,Aluno-1153,2023,0,5.0,10.0,7.2,7.52,7.34375,8.63,Ametista,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+838,ALUNO-838,2021,2,10.0,7.2,5.3,2.5,7.7,5.2,Ágata,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+707,ALUNO-707,2021,0,5.0,7.1,5.4,7.5,7.5,8.1,Ágata,Deterioração gradual,IPP,Baixa persistência,Trabalhar persistência com acompanhamento individual e metas de continuidade
+543,Aluno-543,2024,2,10.0,9.61697722566667,6.83333333333333,2.51,7.34375,8.7,Topázio,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+730,Aluno-730,2022,0,5.0,8.2,8.3,8.8,7.34375,8.25,Ametista,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+862,Aluno-862,2023,0,5.0,9.1,8.9,8.14,7.34375,8.585,Topázio,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+1230,ALUNO-1230,2021,0,10.0,8.6,5.8,6.9,8.1,8.1,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+416,Aluno-416,2024,0,10.0,8.97270955166667,8.0,7.51,7.34375,9.13,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+739,ALUNO-739,2021,0,10.0,8.1,7.6,8.8,8.1,9.2,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1128,Aluno-1128,2023,3,5.0,7.3,3.5,5.02,7.34375,7.503333333,Agata,Queda recente de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+1191,Aluno-1191,2023,3,10.0,7.2,3.7,5.0,7.34375,6.26,Agata,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1232,ALUNO-1232,2021,3,5.0,0.8,0.9,7.5,6.3,2.5,Quartzo,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1107,Aluno-1107,2023,2,5.0,9.4,7.5,5.0,7.34375,8.783333333,Ametista,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+885,Aluno-885,2023,0,5.0,9.8,8.7,7.52,7.34375,8.665,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+830,ALUNO-830,2022,0,10.0,9.24189814814814,7.16666666666666,6.25,6.45833333333333,8.125005,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+387,Aluno-387,2023,2,5.0,6.8,3.0,2.52,7.34375,7.0075,Quartzo,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+1168,Aluno-1168,2024,3,10.0,7.68235294133333,5.66666666666667,7.51,7.34375,6.33,Agata,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+92,Aluno-92,2023,0,5.0,9.4,6.7,5.63,7.34375,7.045,Ametista,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+507,ALUNO-507,2021,3,10.0,3.9,2.8,5.0,7.2,5.3,Ágata,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+340,ALUNO-340,2022,3,5.0,6.07371794871794,2.49444444444444,7.5,6.875,6.16667,Quartzo,Queda recente de aprendizado,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+825,ALUNO-825,2021,3,10.0,2.8,1.2,6.3,6.3,4.8,Quartzo,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1343,ALUNO-1343,2021,3,10.0,1.3,1.3,5.6,6.9,3.7,Quartzo,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1045,Aluno-1045,2023,0,10.0,9.4,7.9,7.52,7.34375,8.28,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+813,Aluno-813,2022,3,10.0,6.5,6.0,6.9,7.34375,7.417,Ametista,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+756,Aluno-756,2022,0,5.0,7.9,5.7,7.5,7.34375,7.25,Agata,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+1324,ALUNO-1324,2022,3,10.0,6.72158337019018,3.83333333333333,7.5,6.45833333333333,7.22221999999999,Quartzo,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+629,Aluno-629,2024,0,5.0,9.523809524,6.0,7.51,7.34375,7.276666667,Topázio,Deterioração gradual,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+97,ALUNO-97,2021,3,5.0,5.8,5.8,7.5,7.5,6.0,Ágata,Queda recente de aprendizado,IPP,Baixa persistência,Trabalhar persistência com acompanhamento individual e metas de continuidade
+78,Aluno-78,2024,0,5.0,8.028404344,7.5,8.755,7.34375,7.39,Topázio,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+796,Aluno-796,2023,0,5.0,9.8,5.5,6.27,7.34375,8.336666667,Ametista,Deterioração gradual,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+1004,ALUNO-1004,2021,0,10.0,10.0,6.4,6.9,7.8,6.3,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+375,Aluno-375,2023,2,10.0,9.9,7.9,5.0,7.34375,8.283333333,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+592,Aluno-592,2024,2,10.0,6.10815273466667,7.83333333333333,2.51,7.34375,7.625,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+404,Aluno-404,2024,2,5.0,6.28627450966667,5.66666666666667,2.51,7.34375,6.998,Agata,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+821,Aluno-821,2024,3,5.0,5.9166666665,4.25,7.51,7.34375,6.713333333,Agata,Queda recente de aprendizado,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+1035,Aluno-1035,2024,0,10.0,9.0227272725,7.0,7.51,7.34375,7.92,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1299,ALUNO-1299,2021,0,10.0,8.3,7.2,7.5,8.3,7.8,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1244,ALUNO-1244,2022,1,5.0,7.96296296296296,8.41666666666666,7.5,6.04166666666666,7.55555666666666,Ametista,Risco estrutural,IPP,Baixa persistência,Trabalhar persistência com acompanhamento individual e metas de continuidade
+931,Aluno-931,2023,2,5.0,8.2,7.8,2.52,7.34375,7.6,Ametista,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+713,Aluno-713,2024,0,5.0,7.525879917,6.75,7.51,7.34375,6.79,Ametista,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+421,Aluno-421,2024,0,10.0,9.54074497833333,6.66666666666667,7.51,7.34375,8.572,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+494,Aluno-494,2022,2,5.0,8.3,5.8,5.0,7.34375,6.944,Agata,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+911,ALUNO-911,2022,1,5.0,7.67575642003559,5.0,5.0,5.78125,6.1249925,Quartzo,Risco estrutural,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+1222,Aluno-1222,2023,2,10.0,10.0,6.8,5.63,7.34375,6.005,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+380,Aluno-380,2023,2,5.0,6.4,4.5,2.52,7.34375,6.5425,Quartzo,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+713,Aluno-713,2022,0,5.0,8.7,7.8,7.5,7.34375,7.25,Ametista,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+1098,ALUNO-1098,2022,1,10.0,8.61952861952862,9.3,8.125,5.3125,8.16667,Ametista,Risco estrutural,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+247,Aluno-247,2024,0,10.0,8.30659536566667,4.33333333333333,6.26,7.34375,8.5875,Agata,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+495,Aluno-495,2023,2,5.0,8.4,7.4,2.52,7.34375,8.755,Ametista,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+37,ALUNO-37,2022,1,10.0,9.04158544509421,7.33333333333333,7.5,6.25,7.77777999999999,Ametista,Risco estrutural,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+702,Aluno-702,2023,0,10.0,10.0,9.3,5.63,7.34375,7.833333333,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+925,Aluno-925,2024,3,10.0,7.005347594,4.75,7.51,7.34375,7.33,Agata,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+431,Aluno-431,2022,3,5.0,8.1,4.5,7.5,7.34375,6.778,Ametista,Queda recente de aprendizado,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+1200,Aluno-1200,2023,3,10.0,6.4,4.0,5.0,7.34375,6.8725,Quartzo,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1027,Aluno-1027,2024,0,5.0,10.0,5.25,7.51,7.34375,8.39,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+603,ALUNO-603,2022,1,5.0,8.61111111111111,2.33333333333333,5.0,3.33333333333333,5.44443666666666,Quartzo,Risco estrutural,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+1229,ALUNO-1229,2021,3,10.0,5.8,0.7,4.4,8.1,7.9,Ágata,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+760,ALUNO-760,2022,1,10.0,9.28571428571428,3.91666666666666,7.5,5.625,6.27777333333333,Ametista,Risco estrutural,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1054,Aluno-1054,2024,3,5.0,7.3291925465,6.25,7.51,7.34375,6.75,Agata,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+727,Aluno-727,2024,0,5.0,8.4848484845,8.5,6.26,7.34375,8.056666667,Topázio,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+1017,Aluno-1017,2024,3,5.0,7.8095238095,5.0,6.26,7.34375,7.443333333,Ametista,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+285,Aluno-285,2023,2,2.5,4.6,4.7,2.52,7.34375,7.13,Quartzo,Falha de aprendizado,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+1288,Aluno-1288,2024,2,10.0,7.9813664595,10.0,2.51,7.34375,7.273333333,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+713,ALUNO-713,2021,3,10.0,6.3,2.6,6.9,8.1,6.8,Quartzo,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+746,ALUNO-746,2022,0,10.0,9.39305259957434,7.77777777777777,6.25,8.59375,9.2083375,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1084,ALUNO-1084,2022,1,10.0,8.93236714975845,5.0,7.5,5.0,5.88888666666666,Ágata,Risco estrutural,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+858,Aluno-858,2024,2,10.0,6.8333333335,8.25,2.51,7.34375,7.5,Agata,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+71,Aluno-71,2023,0,5.0,9.8,6.6,6.26,7.34375,7.7125,Ametista,Deterioração gradual,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+496,ALUNO-496,2021,0,10.0,6.7,7.5,7.5,8.3,7.7,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+663,ALUNO-663,2021,3,5.0,2.9,3.3,7.5,6.7,5.2,Quartzo,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+958,Aluno-958,2024,0,10.0,10.0,10.0,6.26,7.34375,9.76,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+147,Aluno-147,2024,0,5.0,9.277056277,6.16666666666667,7.51,7.34375,7.386666667,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1002,Aluno-1002,2023,0,5.0,9.7,7.0,7.52,7.34375,8.92,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+981,Aluno-981,2024,3,10.0,7.010869565,6.0,6.26,7.34375,6.99,Agata,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+434,Aluno-434,2024,3,5.0,5.061904762,5.5,7.51,7.34375,6.55,Agata,Queda recente de aprendizado,IPV,Baixa velocidade de aprendizado,Ajustar ritmo de ensino com reforço incremental e revisão contínua
+594,Aluno-594,2023,3,5.0,7.1,5.8,6.27,7.34375,7.336666667,Agata,Queda recente de aprendizado,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+176,ALUNO-176,2022,1,5.0,7.39102564102564,2.88888888888888,5.0,5.15625,4.2916725,Quartzo,Risco estrutural,IPS,Baixa participação,Promover participação com controle de presença e atividades semanais
+528,Aluno-528,2024,3,5.0,5.79348370933333,6.66666666666667,7.51,7.34375,6.936666667,Ametista,Queda recente de aprendizado,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+1279,ALUNO-1279,2022,0,10.0,7.8030303030303,5.94444444444444,7.5,7.65625,8.0000025,Ametista,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1032,Aluno-1032,2024,0,5.0,9.75,8.0,7.51,7.34375,7.92,Topázio,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+962,Aluno-962,2023,0,10.0,9.2,8.7,7.52,7.34375,10.01,Topázio,Deterioração gradual,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+850,ALUNO-850,2022,2,10.0,7.77678406785911,6.71111111111111,5.0,7.65625,7.1666625,Ametista,Falha de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+165,ALUNO-165,2021,0,5.0,7.5,7.3,7.5,8.3,7.7,Ametista,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
+766,ALUNO-766,2021,0,5.0,7.5,6.5,7.5,7.8,8.4,Ametista,Deterioração gradual,IPP,Baixa persistência,Trabalhar persistência com acompanhamento individual e metas de continuidade
+1165,ALUNO-1165,2021,0,5.0,8.6,7.2,7.5,7.7,8.9,Ametista,Deterioração gradual,IEG,Baixo engajamento,Aumentar engajamento com acompanhamento ativo e metas de participação nas atividades
+226,ALUNO-226,2021,3,10.0,4.2,4.3,5.6,7.1,5.8,Quartzo,Queda recente de aprendizado,IAN_LAG,Histórico de baixo desempenho,Implementar plano de recuperação progressivo baseado no histórico
+1330,Aluno-1330,2024,0,5.0,9.3333333335,9.5,7.51,7.34375,7.915,Topázio,Deterioração gradual,IDA,Baixo desempenho acadêmico,Ação deve ser tomada com direcionamento do conteúdo e adaptação de exercícios
